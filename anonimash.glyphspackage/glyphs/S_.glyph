@@ -1,0 +1,10 @@
+{
+glyphname = S;
+layers = (
+{
+layerId = master01;
+width = 600;
+}
+);
+unicode = 83;
+}

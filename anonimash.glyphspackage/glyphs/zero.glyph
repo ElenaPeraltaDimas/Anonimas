@@ -1,0 +1,10 @@
+{
+glyphname = zero;
+layers = (
+{
+layerId = master01;
+width = 600;
+}
+);
+unicode = 48;
+}

@@ -1,0 +1,10 @@
+{
+glyphname = y;
+layers = (
+{
+layerId = master01;
+width = 600;
+}
+);
+unicode = 121;
+}

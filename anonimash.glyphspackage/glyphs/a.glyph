@@ -1,0 +1,13 @@
+{
+glyphname = a;
+layers = (
+{
+layerId = master01;
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2021-08-16 16:08:45 +0000";
+};
+width = 600;
+}
+);
+unicode = 97;
+}
