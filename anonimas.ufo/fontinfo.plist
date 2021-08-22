@@ -9,7 +9,7 @@
 	<key>descender</key>
 	<integer>-234</integer>
 	<key>familyName</key>
-	<string>New Font</string>
+	<string>Anonimas_primer_partido</string>
 	<key>guidelines</key>
 	<array>
 		<dict>
@@ -24,7 +24,7 @@
 		</dict>
 		<dict>
 			<key>angle</key>
-			<integer>180</integer>
+			<integer>0</integer>
 			<key>name</key>
 			<string>f1</string>
 			<key>x</key>
@@ -46,9 +46,7 @@
 	<key>openTypeHeadFlags</key>
 	<array/>
 	<key>openTypeNamePreferredFamilyName</key>
-	<string>New Font</string>
-	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Regular</string>
+	<string>anonimasprimerpartido</string>
 	<key>openTypeNameVersion</key>
 	<string>Version 1.000</string>
 	<key>openTypeOS2Selection</key>
@@ -79,10 +77,12 @@
 	<integer>7</integer>
 	<key>postscriptBlueValues</key>
 	<array>
-		<real>-10.0</real>
-		<real>0.0</real>
-		<real>500.0</real>
-		<real>510.0</real>
+		<integer>-10</integer>
+		<integer>0</integer>
+		<integer>500</integer>
+		<integer>510</integer>
+		<integer>703</integer>
+		<integer>713</integer>
 	</array>
 	<key>postscriptFontName</key>
 	<string>NewFont-Regular</string>
@@ -91,13 +91,14 @@
 	<key>postscriptIsFixedPitch</key>
 	<false/>
 	<key>postscriptOtherBlues</key>
-	<array/>
+	<array>
+		<integer>-244</integer>
+		<integer>-234</integer>
+	</array>
 	<key>postscriptUnderlinePosition</key>
 	<integer>-100</integer>
 	<key>postscriptUnderlineThickness</key>
 	<integer>50</integer>
-	<key>postscriptWeightName</key>
-	<string>Regular</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>

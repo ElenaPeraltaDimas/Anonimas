@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="e" format="2">
-	<advance width="590"/>
+	<advance width="600"/>
 	<unicode hex="0065"/>
 	<outline>
 		<contour>
@@ -47,4 +47,10 @@
 			<point x="532" y="48"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-08-19 00:08:24 +0000</string>
+		</dict>
+	</lib>
 </glyph>
