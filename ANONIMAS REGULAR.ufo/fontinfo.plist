@@ -73,12 +73,12 @@
 	<integer>7</integer>
 	<key>postscriptBlueValues</key>
 	<array>
-		<real>-10.0</real>
-		<real>0.0</real>
-		<real>500.0</real>
-		<real>510.0</real>
-		<real>780.0</real>
-		<real>790.0</real>
+		<integer>-10</integer>
+		<integer>0</integer>
+		<integer>500</integer>
+		<integer>510</integer>
+		<integer>780</integer>
+		<integer>790</integer>
 	</array>
 	<key>postscriptFontName</key>
 	<string>Anonimas_primer_partido_sin-incisa-Regular</string>
@@ -88,13 +88,9 @@
 	<false/>
 	<key>postscriptOtherBlues</key>
 	<array>
-		<real>-200.0</real>
-		<real>-190.0</real>
+		<integer>-200</integer>
+		<integer>-190</integer>
 	</array>
-	<key>postscriptUnderlinePosition</key>
-	<integer>-100</integer>
-	<key>postscriptUnderlineThickness</key>
-	<integer>50</integer>
 	<key>styleName</key>
 	<string>Regular</string>
 	<key>unitsPerEm</key>
