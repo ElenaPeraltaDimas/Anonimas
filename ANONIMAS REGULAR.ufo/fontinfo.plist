@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>ascender</key>
-	<integer>800</integer>
-	<key>capHeight</key>
 	<integer>780</integer>
+	<key>capHeight</key>
+	<integer>730</integer>
 	<key>descender</key>
 	<integer>-190</integer>
 	<key>familyName</key>
@@ -38,7 +38,7 @@
 			<key>x</key>
 			<integer>392</integer>
 			<key>y</key>
-			<integer>387</integer>
+			<integer>388</integer>
 		</dict>
 	</array>
 	<key>openTypeHeadCreated</key>
@@ -47,6 +47,8 @@
 	<array/>
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>anonimasprimerpartido</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Regular</string>
 	<key>openTypeNameVersion</key>
 	<string>Version 1.000</string>
 	<key>openTypeOS2Selection</key>
@@ -61,6 +63,10 @@
 	<integer>-196</integer>
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>100</integer>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
 	<key>openTypeOS2WinAscent</key>
 	<integer>760</integer>
 	<key>openTypeOS2WinDescent</key>
@@ -77,8 +83,8 @@
 		<real>0.0</real>
 		<real>500.0</real>
 		<real>510.0</real>
-		<real>780.0</real>
-		<real>790.0</real>
+		<real>730.0</real>
+		<real>740.0</real>
 	</array>
 	<key>postscriptFontName</key>
 	<string>Anonimas_primer_partido_sin-incisa-Regular</string>
@@ -95,6 +101,8 @@
 	<integer>-100</integer>
 	<key>postscriptUnderlineThickness</key>
 	<integer>50</integer>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
 	<key>styleName</key>
 	<string>Regular</string>
 	<key>unitsPerEm</key>
