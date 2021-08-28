@@ -15,30 +15,10 @@
 		<dict>
 			<key>angle</key>
 			<integer>0</integer>
-			<key>name</key>
-			<string>m</string>
 			<key>x</key>
-			<integer>9</integer>
+			<integer>374</integer>
 			<key>y</key>
-			<integer>507</integer>
-		</dict>
-		<dict>
-			<key>angle</key>
-			<integer>0</integer>
-			<key>name</key>
-			<string>f1</string>
-			<key>x</key>
-			<integer>-419</integer>
-			<key>y</key>
-			<integer>112</integer>
-		</dict>
-		<dict>
-			<key>angle</key>
-			<integer>0</integer>
-			<key>x</key>
-			<integer>392</integer>
-			<key>y</key>
-			<integer>388</integer>
+			<integer>141</integer>
 		</dict>
 	</array>
 	<key>openTypeHeadCreated</key>

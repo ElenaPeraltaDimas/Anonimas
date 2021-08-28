@@ -5,14 +5,23 @@
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
 		<string>HHHHHH</string>
-		<string>nnnonnn
-nnnennn
-nnnlnnn
-Hlonnn
-lllllHlllll
-HoOHHHOOHHOO
-OOOHOOOO
-Ono  Onononono</string>
+		<string>nnnnqnnn
+ooooqooo
+nnnbqnnnn
+oooobooo
+nnnnvnnnnn
+bnbnbnbnn
+oooovooooo
+llll
+HPiIvTE
+ HHHIHHH
+OOOIOOOI
+HHHEHHHH
+nlino bi/i.001 lililiililililililililliininininininininio 
+Ilnobo
+Pilno
+Olno
+ </string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
@@ -51,7 +60,17 @@ Ono  Onononono</string>
 			<key>6366B642-BFD9-498E-A5DF-39975F9AC1A1</key>
 			<dict>
 				<key>HV</key>
-				<string>116</string>
+				<string>129</string>
+				<key>OH</key>
+				<string>147</string>
+				<key>OV</key>
+				<string>135</string>
+				<key>nV</key>
+				<string>111</string>
+				<key>nd</key>
+				<string>122</string>
+				<key>oH</key>
+				<string>117</string>
 			</dict>
 			<key>master01</key>
 			<dict>
@@ -209,6 +228,8 @@ Ono  Onononono</string>
 		<string>comma</string>
 		<string>hyphen</string>
 		<string>acutecomb</string>
+		<string>P.001</string>
+		<string>i.001</string>
 	</array>
 </dict>
 </plist>

@@ -36,6 +36,8 @@
 	<string>O_.glif</string>
 	<key>P</key>
 	<string>P_.glif</string>
+	<key>P.001</key>
+	<string>P_.001.glif</string>
 	<key>Q</key>
 	<string>Q_.glif</string>
 	<key>R</key>
@@ -86,6 +88,8 @@
 	<string>hyphen.glif</string>
 	<key>i</key>
 	<string>i.glif</string>
+	<key>i.001</key>
+	<string>i.001.glif</string>
 	<key>j</key>
 	<string>j.glif</string>
 	<key>k</key>
