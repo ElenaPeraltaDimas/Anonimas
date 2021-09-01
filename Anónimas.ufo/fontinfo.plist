@@ -18,7 +18,23 @@
 			<key>x</key>
 			<integer>374</integer>
 			<key>y</key>
-			<integer>141</integer>
+			<integer>138</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>x</key>
+			<integer>366</integer>
+			<key>y</key>
+			<integer>593</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>x</key>
+			<integer>371</integer>
+			<key>y</key>
+			<integer>388</integer>
 		</dict>
 	</array>
 	<key>openTypeHeadCreated</key>
@@ -27,8 +43,6 @@
 	<array/>
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>anonimasprimerpartido</string>
-	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Regular</string>
 	<key>openTypeNameVersion</key>
 	<string>Version 1.000</string>
 	<key>openTypeOS2Selection</key>
@@ -59,12 +73,12 @@
 	<integer>7</integer>
 	<key>postscriptBlueValues</key>
 	<array>
-		<real>-10.0</real>
-		<real>0.0</real>
-		<real>500.0</real>
-		<real>510.0</real>
-		<real>730.0</real>
-		<real>740.0</real>
+		<integer>-10</integer>
+		<integer>0</integer>
+		<integer>500</integer>
+		<integer>510</integer>
+		<integer>730</integer>
+		<integer>740</integer>
 	</array>
 	<key>postscriptFontName</key>
 	<string>Anonimas_primer_partido_sin-incisa-Regular</string>
@@ -74,8 +88,8 @@
 	<false/>
 	<key>postscriptOtherBlues</key>
 	<array>
-		<real>-200.0</real>
-		<real>-190.0</real>
+		<integer>-200</integer>
+		<integer>-190</integer>
 	</array>
 	<key>postscriptUnderlinePosition</key>
 	<integer>-100</integer>

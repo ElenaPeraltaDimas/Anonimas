@@ -2,6 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>GSDimensionPlugin.Dimensions</key>
+	<dict>
+		<key>6366B642-BFD9-498E-A5DF-39975F9AC1A1</key>
+		<dict>
+			<key>HV</key>
+			<string>119</string>
+			<key>nV</key>
+			<string>111</string>
+		</dict>
+	</dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
 		<string>HHHHHH</string>
@@ -14,10 +24,10 @@ bnbnbnbnn
 oooovooooo
 llll
 HPiIvTE
- HHHIHHH
+/space HHHIHHH
 OOOIOOOI
 HHHEHHHH
-nlino bi/i.001 lililiililililililililliininininininininio 
+nlino/space bi/i.001 lililiililililililililliininininininininio/space 
 Ilnobo
 Pilno
 Olno
@@ -26,11 +36,187 @@ aBgN
 dcCfU
 nnmm
 VGp</string>
+		<string>C</string>
+		<string>ncnn</string>
+		<string>GO</string>
+		<string>PO</string>
+		<string>NH</string>
+		<string>ge</string>
+		<string>nfe</string>
+		<string>noondal</string>
+		<string>Hnamnlbourngnnefontsivn
+HAMBURGEFONTSIV</string>
+		<string>vw</string>
+		<string>bdnpq</string>
+		<string>h</string>
+		<string>n</string>
+		<string>/acutecomb</string>
+		<string>/acutecomb o/acutecomb ó</string>
+		<string>OOOHHnnGnie</string>
+		<string>P</string>
+		<string>BO</string>
+		<string>/B.ss01</string>
+		<string>lin</string>
+		<string>n/tildecomb/tildecomb ñ</string>
+		<string>/tildecomb</string>
+		<string>/tildecomb n/tildecomb n/tildecomb ñ</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
 	<key>com.schriftgestaltung.font.customParameters</key>
 	<array>
+		<dict>
+			<key>name</key>
+			<string>glyphOrder</string>
+			<key>value</key>
+			<array>
+				<string>.notdef</string>
+				<string>space</string>
+				<string>A</string>
+				<string>B</string>
+				<string>C</string>
+				<string>D</string>
+				<string>E</string>
+				<string>F</string>
+				<string>G</string>
+				<string>H</string>
+				<string>I</string>
+				<string>J</string>
+				<string>K</string>
+				<string>L</string>
+				<string>M</string>
+				<string>N</string>
+				<string>O</string>
+				<string>P</string>
+				<string>Q</string>
+				<string>R</string>
+				<string>S</string>
+				<string>T</string>
+				<string>U</string>
+				<string>V</string>
+				<string>W</string>
+				<string>X</string>
+				<string>Y</string>
+				<string>Z</string>
+				<string>a</string>
+				<string>b</string>
+				<string>c</string>
+				<string>d</string>
+				<string>e</string>
+				<string>f</string>
+				<string>g</string>
+				<string>h</string>
+				<string>i</string>
+				<string>j</string>
+				<string>k</string>
+				<string>l</string>
+				<string>m</string>
+				<string>n</string>
+				<string>o</string>
+				<string>oacute</string>
+				<string>p</string>
+				<string>q</string>
+				<string>r</string>
+				<string>s</string>
+				<string>t</string>
+				<string>u</string>
+				<string>v</string>
+				<string>w</string>
+				<string>x</string>
+				<string>y</string>
+				<string>z</string>
+				<string>zero</string>
+				<string>one</string>
+				<string>two</string>
+				<string>three</string>
+				<string>four</string>
+				<string>five</string>
+				<string>six</string>
+				<string>seven</string>
+				<string>eight</string>
+				<string>nine</string>
+				<string>period</string>
+				<string>comma</string>
+				<string>hyphen</string>
+				<string>acutecomb</string>
+			</array>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>glyphOrder</string>
+			<key>value</key>
+			<array>
+				<string>.notdef</string>
+				<string>space</string>
+				<string>A</string>
+				<string>B</string>
+				<string>C</string>
+				<string>D</string>
+				<string>E</string>
+				<string>F</string>
+				<string>G</string>
+				<string>H</string>
+				<string>I</string>
+				<string>J</string>
+				<string>K</string>
+				<string>L</string>
+				<string>M</string>
+				<string>N</string>
+				<string>O</string>
+				<string>P</string>
+				<string>Q</string>
+				<string>R</string>
+				<string>S</string>
+				<string>T</string>
+				<string>U</string>
+				<string>V</string>
+				<string>W</string>
+				<string>X</string>
+				<string>Y</string>
+				<string>Z</string>
+				<string>a</string>
+				<string>b</string>
+				<string>c</string>
+				<string>d</string>
+				<string>e</string>
+				<string>f</string>
+				<string>g</string>
+				<string>h</string>
+				<string>i</string>
+				<string>j</string>
+				<string>k</string>
+				<string>l</string>
+				<string>m</string>
+				<string>n</string>
+				<string>o</string>
+				<string>oacute</string>
+				<string>p</string>
+				<string>q</string>
+				<string>r</string>
+				<string>s</string>
+				<string>t</string>
+				<string>u</string>
+				<string>v</string>
+				<string>w</string>
+				<string>x</string>
+				<string>y</string>
+				<string>z</string>
+				<string>zero</string>
+				<string>one</string>
+				<string>two</string>
+				<string>three</string>
+				<string>four</string>
+				<string>five</string>
+				<string>six</string>
+				<string>seven</string>
+				<string>eight</string>
+				<string>nine</string>
+				<string>period</string>
+				<string>comma</string>
+				<string>hyphen</string>
+				<string>acutecomb</string>
+			</array>
+		</dict>
 		<dict>
 			<key>name</key>
 			<string>openTypeGaspRangeRecords</string>
@@ -50,38 +236,10 @@ VGp</string>
 			</array>
 		</dict>
 	</array>
-	<key>com.schriftgestaltung.font.userData</key>
+	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
-		<key>GSDimensionPlugin.Dimensions</key>
-		<dict>
-			<key>3CD964AD-468F-4180-82D7-1A3CF5C180B8</key>
-			<dict>
-				<key>nV</key>
-				<string>126</string>
-				<key>oV</key>
-				<string>129</string>
-			</dict>
-			<key>6366B642-BFD9-498E-A5DF-39975F9AC1A1</key>
-			<dict>
-				<key>HV</key>
-				<string>129</string>
-				<key>OH</key>
-				<string>147</string>
-				<key>OV</key>
-				<string>135</string>
-				<key>nV</key>
-				<string>111</string>
-				<key>nd</key>
-				<string>122</string>
-				<key>oH</key>
-				<string>117</string>
-			</dict>
-			<key>master01</key>
-			<dict>
-				<key>nV</key>
-				<string>84</string>
-			</dict>
-		</dict>
+		<key>GSCornerRadius</key>
+		<real>45.0</real>
 	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>6366B642-BFD9-498E-A5DF-39975F9AC1A1</string>
@@ -233,7 +391,10 @@ VGp</string>
 		<string>hyphen</string>
 		<string>acutecomb</string>
 		<string>P.001</string>
+		<string>B.ss01</string>
+		<string>ntilde</string>
 		<string>i.001</string>
+		<string>tildecomb</string>
 	</array>
 </dict>
 </plist>
