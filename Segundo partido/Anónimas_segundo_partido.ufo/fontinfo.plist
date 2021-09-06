@@ -71,10 +71,6 @@
 	<integer>-196</integer>
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>100</integer>
-	<key>openTypeOS2WeightClass</key>
-	<integer>400</integer>
-	<key>openTypeOS2WidthClass</key>
-	<integer>5</integer>
 	<key>openTypeOS2WinAscent</key>
 	<integer>760</integer>
 	<key>openTypeOS2WinDescent</key>
@@ -105,12 +101,6 @@
 		<integer>-200</integer>
 		<integer>-190</integer>
 	</array>
-	<key>postscriptUnderlinePosition</key>
-	<integer>-100</integer>
-	<key>postscriptUnderlineThickness</key>
-	<integer>50</integer>
-	<key>styleMapStyleName</key>
-	<string>regular</string>
 	<key>styleName</key>
 	<string>Regular</string>
 	<key>unitsPerEm</key>

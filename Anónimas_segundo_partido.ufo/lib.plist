@@ -24,10 +24,10 @@ bnbnbnbnn
 oooovooooo
 llll
 HPiIvTE
-/space HHHIHHH
+ HHHIHHH
 OOOIOOOI
 HHHEHHHH
-nlino/space bilililiililililililililliininininininininio/space 
+nlino bilililiililililililililliininininininininio 
 Ilnobo
 Pilno
 Olno
@@ -91,22 +91,25 @@ HAMBURGEFONTSIV</string>
 		<string>bdnpq</string>
 		<string>h</string>
 		<string>n</string>
-		<string>/acutecomb</string>
-		<string>/acutecomb o/acutecomb ó</string>
+		<string>́</string>
+		<string>́óó</string>
 		<string>OOOHHnnGnie</string>
 		<string>P</string>
 		<string>BO</string>
 		<string>/B.ss01</string>
 		<string>lin</string>
-		<string>n/tildecomb/tildecomb ñ</string>
-		<string>/tildecomb</string>
-		<string>/tildecomb n/tildecomb n/tildecomb ñ</string>
+		<string>ñ̃ñ</string>
+		<string>̃</string>
+		<string>̃ñññ</string>
 		<string>OQia</string>
 		<string>D</string>
 		<string>EFHInTUV</string>
 		<string>BCDEFGCHILNHnOHHOOPQTUV</string>
-		<string>/tildecomb nñ</string>
-		<string>/acutecomb ó</string>
+		<string>̃nñ</string>
+		<string>́ó</string>
+		<string>̃ñ</string>
+		<string>Ñ</string>
+		<string>local charla marcia alemania global miel lorna cera ópera decano llamarlo llego amarla valer barbie mago fecha lincoln callahan ian andan ave animal mónica campo echarme echado carnada nombro colegio llaman pelado herido biff are planeado robin obvio cómico novedad nolan dale vino eleanor leen movió acero chiflada informar bonnie condena barra delhi darlo ceder bendiga malo planeó llegado daniel padrino nació fiel olvidar erica reciban llover cargador leña chica inc chocó doo derecha indigno geoff hacerlo corra decirle adrede cocinar probando deborah opera parecida follón vere amir olvide apagarlo aroma dime revolver prefiera lograron vince carl romper bloom llevada mirado abel drive elevar previo collier amor loco www obama acerca bendice caigan hablan conlleva manden impedir ambición baile apellido</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
@@ -152,19 +155,12 @@ HAMBURGEFONTSIV</string>
 			</dict>
 		</dict>
 	</dict>
-	<key>com.schriftgestaltung.fontMaster.userData</key>
-	<dict>
-		<key>GSCornerRadius</key>
-		<real>45.0</real>
-	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>6366B642-BFD9-498E-A5DF-39975F9AC1A1</string>
 	<key>com.schriftgestaltung.glyphOrder</key>
 	<false/>
 	<key>com.schriftgestaltung.useNiceNames</key>
 	<false/>
-	<key>com.schriftgestaltung.weightValue</key>
-	<integer>400</integer>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>A</string>
@@ -181,6 +177,7 @@ HAMBURGEFONTSIV</string>
 		<string>L</string>
 		<string>M</string>
 		<string>N</string>
+		<string>Ntilde</string>
 		<string>O</string>
 		<string>P</string>
 		<string>Q</string>
@@ -232,11 +229,11 @@ HAMBURGEFONTSIV</string>
 		<string>seven</string>
 		<string>eight</string>
 		<string>nine</string>
+		<string>.notdef</string>
+		<string>space</string>
 		<string>period</string>
 		<string>comma</string>
 		<string>hyphen</string>
-		<string>space</string>
-		<string>.notdef</string>
 		<string>acutecomb</string>
 		<string>tildecomb</string>
 	</array>

@@ -11,7 +11,7 @@
 	<key>descender</key>
 	<integer>-190</integer>
 	<key>familyName</key>
-	<string>Anonimas_segundo_partido</string>
+	<string>Tans Sans</string>
 	<key>guidelines</key>
 	<array>
 		<dict>
@@ -56,7 +56,9 @@
 	<key>openTypeNameManufacturer</key>
 	<string>Torneo Comunidad Letrastica</string>
 	<key>openTypeNamePreferredFamilyName</key>
-	<string>anonimassegundopartido</string>
+	<string>Tans Sans</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Regular</string>
 	<key>openTypeNameVersion</key>
 	<string>Version 1.000</string>
 	<key>openTypeOS2Selection</key>
@@ -87,23 +89,23 @@
 	<integer>7</integer>
 	<key>postscriptBlueValues</key>
 	<array>
-		<integer>-10</integer>
-		<integer>0</integer>
-		<integer>500</integer>
-		<integer>510</integer>
-		<integer>730</integer>
-		<integer>740</integer>
+		<real>-10.0</real>
+		<real>0.0</real>
+		<real>500.0</real>
+		<real>510.0</real>
+		<real>730.0</real>
+		<real>740.0</real>
 	</array>
 	<key>postscriptFontName</key>
-	<string>Anonimas_segundo_partido-Regular</string>
+	<string>Tans Sans</string>
 	<key>postscriptForceBold</key>
 	<false/>
 	<key>postscriptIsFixedPitch</key>
 	<false/>
 	<key>postscriptOtherBlues</key>
 	<array>
-		<integer>-200</integer>
-		<integer>-190</integer>
+		<real>-200.0</real>
+		<real>-190.0</real>
 	</array>
 	<key>postscriptUnderlinePosition</key>
 	<integer>-100</integer>

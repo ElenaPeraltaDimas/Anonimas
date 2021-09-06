@@ -32,10 +32,10 @@ bnbnbnbnn
 oooovooooo
 llll
 HPiIvTE
-/space HHHIHHH
+ HHHIHHH
 OOOIOOOI
 HHHEHHHH
-nlino/space bilililiililililililililliininininininininio/space 
+nlino bilililiililililililililliininininininininio 
 Ilnobo
 Pilno
 Olno
@@ -115,6 +115,8 @@ HAMBURGEFONTSIV</string>
 		<string>BCDEFGCHILNHnOHHOOPQTUV</string>
 		<string>/tildecomb nñ</string>
 		<string>/acutecomb ó</string>
+		<string>Ñ</string>
+		<string>N</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
@@ -137,6 +139,21 @@ HAMBURGEFONTSIV</string>
 					<integer>65535</integer>
 				</dict>
 			</array>
+		</dict>
+	</array>
+	<key>com.schriftgestaltung.fontMaster.customParameters</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>underlineThickness</string>
+			<key>value</key>
+			<integer>50</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>underlinePosition</string>
+			<key>value</key>
+			<integer>-100</integer>
 		</dict>
 	</array>
 	<key>com.schriftgestaltung.fontMaster.userData</key>
@@ -168,6 +185,7 @@ HAMBURGEFONTSIV</string>
 		<string>L</string>
 		<string>M</string>
 		<string>N</string>
+		<string>Ntilde</string>
 		<string>O</string>
 		<string>P</string>
 		<string>Q</string>
