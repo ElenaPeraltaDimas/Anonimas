@@ -6,10 +6,18 @@
 	<dict>
 		<key>6366B642-BFD9-498E-A5DF-39975F9AC1A1</key>
 		<dict>
-			<key>HV</key>
+			<key>HH</key>
 			<string>119</string>
+			<key>HV</key>
+			<string>124</string>
+			<key>OH</key>
+			<string>138</string>
+			<key>OV</key>
+			<string>131</string>
 			<key>nV</key>
-			<string>111</string>
+			<string>112</string>
+			<key>nd</key>
+			<string>40</string>
 		</dict>
 	</dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
@@ -131,27 +139,6 @@ HAMBURGEFONTSIV</string>
 			</array>
 		</dict>
 	</array>
-	<key>com.schriftgestaltung.font.userData</key>
-	<dict>
-		<key>GSDimensionPlugin.Dimensions</key>
-		<dict>
-			<key>6366B642-BFD9-498E-A5DF-39975F9AC1A1</key>
-			<dict>
-				<key>HH</key>
-				<string>119</string>
-				<key>HV</key>
-				<string>124</string>
-				<key>OH</key>
-				<string>138</string>
-				<key>OV</key>
-				<string>131</string>
-				<key>nV</key>
-				<string>112</string>
-				<key>nd</key>
-				<string>40</string>
-			</dict>
-		</dict>
-	</dict>
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
 		<key>GSCornerRadius</key>
