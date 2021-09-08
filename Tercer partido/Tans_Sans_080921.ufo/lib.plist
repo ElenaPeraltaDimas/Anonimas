@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GSDimensionPlugin.Dimensions</key>
+	<dict>
+		<key>6366B642-BFD9-498E-A5DF-39975F9AC1A1</key>
+		<dict>
+			<key>HV</key>
+			<string>138</string>
+			<key>nV</key>
+			<string>126</string>
+		</dict>
+	</dict>
+	<key>com.schriftgestaltung.DisplayStrings</key>
+	<array>
+		<string>HHHHHH</string>
+		<string>nnnnnnn
+ooooooo
+nnnnnnn
+ooooooo
+nnnnvnnnnn
+nnnnn
+oooovooooo
+
+HIv
+HHHIHHH
+II
+HHHHHHH
+nnonnnnnnnno
+Inoo
+no
+no
+w
+N
+U
+nnmm
+V</string>
+		<string></string>
+		<string>nnn</string>
+		<string></string>
+		<string></string>
+		<string>NH</string>
+		<string></string>
+		<string>HHHHHHHHHIHHNHHHHHUHVH
+HINUV
+
+HHHHHHH
+HHHHHHH
+HHHHHHH
+HHHHHHH
+HHHHHHH
+HHHHHHH
+HHHHHHHHH
+HHHHIHHHI
+HHHHHHH
+HHHHNHHHN
+HHHHHHH
+HHHHHHH
+HHHHHHH
+HHHHHHH
+HHHHUHHHU
+HHHHVHHHV
+
+nnnnnnnnhnnnmnnnononnnnvnwn
+oooooooohooomonoooooooovowo
+
+nnnnnnnooooooo
+nnnnnnnooooooo
+nnnnnnnooooooo
+nnnnnnnooooooo
+nnnnnnnooooooo
+nnnnnnnooooooo
+nnnnnnnooooooo
+nnnnhnnnooohoooo
+nnnnnnnooooooo
+nnnnnnnooooooo
+nnnnmnnnooomoooo
+nnnnnnnnooonoooo
+nnnnonnnoooooooo
+nnnnonnnoooooooo
+nnnnnnnooooooo
+nnnnnnnooooooo
+nnnnnnnooooooo
+nnnnvnnnooovoooo
+nnnnwnnnooowoooo</string>
+		<string>noon</string>
+		<string>Hnmnounnnonvn
+HMUNIV</string>
+		<string>vw</string>
+		<string>n</string>
+		<string>h</string>
+		<string></string>
+		<string>o</string>
+		<string>HHnnn</string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string>n</string>
+		<string>n</string>
+		<string></string>
+		<string>nn</string>
+		<string></string>
+		<string></string>
+		<string>HInUV</string>
+		<string>HINHnHHUV</string>
+		<string>n</string>
+		<string></string>
+		<string>Hh</string>
+		<string>E</string>
+		<string>F</string>
+		<string>LTafgirjt</string>
+		<string>HODCOHGpoec</string>
+		<string>/G.ss02</string>
+		<string>Q</string>
+		<string>/tildecomb/tildecomb</string>
+		<string>nñoó</string>
+		<string>N</string>
+		<string>m</string>
+	</array>
+	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
+	<false/>
+	<key>com.schriftgestaltung.font.customParameters</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>openTypeGaspRangeRecords</string>
+			<key>value</key>
+			<array>
+				<dict>
+					<key>rangeGaspBehavior</key>
+					<array>
+						<integer>0</integer>
+						<integer>1</integer>
+						<integer>2</integer>
+						<integer>3</integer>
+					</array>
+					<key>rangeMaxPPEM</key>
+					<integer>65535</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>com.schriftgestaltung.fontMaster.userData</key>
+	<dict>
+		<key>GSCornerRadius</key>
+		<integer>45</integer>
+	</dict>
+	<key>com.schriftgestaltung.fontMasterID</key>
+	<string>6366B642-BFD9-498E-A5DF-39975F9AC1A1</string>
+	<key>com.schriftgestaltung.glyphOrder</key>
+	<false/>
+	<key>com.schriftgestaltung.useNiceNames</key>
+	<false/>
+	<key>com.schriftgestaltung.weightValue</key>
+	<integer>400</integer>
+	<key>public.glyphOrder</key>
+	<array>
+		<string>A</string>
+		<string>B</string>
+		<string>C</string>
+		<string>D</string>
+		<string>E</string>
+		<string>F</string>
+		<string>G</string>
+		<string>H</string>
+		<string>I</string>
+		<string>J</string>
+		<string>K</string>
+		<string>L</string>
+		<string>M</string>
+		<string>N</string>
+		<string>Ntilde</string>
+		<string>O</string>
+		<string>P</string>
+		<string>Q</string>
+		<string>R</string>
+		<string>S</string>
+		<string>T</string>
+		<string>U</string>
+		<string>V</string>
+		<string>W</string>
+		<string>X</string>
+		<string>Y</string>
+		<string>Z</string>
+		<string>F.001</string>
+		<string>G.ss01</string>
+		<string>G.ss02</string>
+		<string>a</string>
+		<string>b</string>
+		<string>c</string>
+		<string>d</string>
+		<string>e</string>
+		<string>f</string>
+		<string>g</string>
+		<string>h</string>
+		<string>i</string>
+		<string>j</string>
+		<string>k</string>
+		<string>l</string>
+		<string>m</string>
+		<string>n</string>
+		<string>ntilde</string>
+		<string>o</string>
+		<string>oacute</string>
+		<string>p</string>
+		<string>q</string>
+		<string>r</string>
+		<string>s</string>
+		<string>t</string>
+		<string>u</string>
+		<string>v</string>
+		<string>w</string>
+		<string>x</string>
+		<string>y</string>
+		<string>z</string>
+		<string>acutecomb</string>
+		<string>tildecomb</string>
+	</array>
+</dict>
+</plist>

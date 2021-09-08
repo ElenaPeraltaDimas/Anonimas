@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="y" format="2">
+	<advance width="640"/>
+	<unicode hex="0079"/>
+	<outline>
+		<contour>
+			<point x="40" y="556" type="line"/>
+			<point x="232" y="0" type="line"/>
+			<point x="346" y="0" type="line"/>
+			<point x="346" y="134" type="line"/>
+			<point x="310" y="134" type="line"/>
+			<point x="171" y="556" type="line"/>
+		</contour>
+		<contour>
+			<point x="600" y="556" type="line"/>
+			<point x="467" y="556" type="line"/>
+			<point x="279" y="-97" type="line"/>
+			<point x="115" y="-97" type="line"/>
+			<point x="115" y="-212" type="line"/>
+			<point x="220" y="-212" type="line" smooth="yes"/>
+			<point x="356" y="-212"/>
+			<point x="376" y="-114"/>
+			<point x="405" y="-28" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-08 21:21:52 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>v</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>v</string>
+		</dict>
+	</lib>
+</glyph>
