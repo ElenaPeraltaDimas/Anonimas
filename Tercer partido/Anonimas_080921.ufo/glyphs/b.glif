@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="b" format="2">
+	<advance width="686"/>
+	<unicode hex="0062"/>
+	<outline>
+		<contour>
+			<point x="82" y="868" type="line"/>
+			<point x="82" y="0" type="line"/>
+			<point x="187" y="0" type="line"/>
+			<point x="198" y="99" type="line"/>
+			<point x="208" y="117" type="line"/>
+			<point x="208" y="354" type="line"/>
+			<point x="201" y="447" type="line"/>
+			<point x="201" y="868" type="line"/>
+		</contour>
+		<contour>
+			<point x="171" y="119" type="line"/>
+			<point x="155" y="67" type="line"/>
+			<point x="182" y="67" type="line"/>
+			<point x="210" y="23"/>
+			<point x="287" y="-11"/>
+			<point x="358" y="-11" type="curve" smooth="yes"/>
+			<point x="557" y="-11"/>
+			<point x="635" y="120"/>
+			<point x="635" y="278" type="curve"/>
+			<point x="635" y="330" type="line"/>
+			<point x="635" y="475"/>
+			<point x="558" y="567"/>
+			<point x="432" y="567" type="curve"/>
+			<point x="393" y="567" type="line"/>
+			<point x="303" y="567"/>
+			<point x="240" y="513"/>
+			<point x="218" y="447" type="curve"/>
+			<point x="201" y="447" type="line"/>
+			<point x="208" y="354" type="line"/>
+			<point x="208" y="410"/>
+			<point x="268" y="436"/>
+			<point x="324" y="436" type="curve" smooth="yes"/>
+			<point x="506" y="436" type="line"/>
+			<point x="506" y="245" type="line" smooth="yes"/>
+			<point x="506" y="150"/>
+			<point x="451" y="119"/>
+			<point x="383" y="119" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-08-31 08:38:01 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>l</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>o</string>
+			<key>public.markColor</key>
+			<string>0.98,0.36,0.67,1</string>
+		</dict>
+	</lib>
+</glyph>

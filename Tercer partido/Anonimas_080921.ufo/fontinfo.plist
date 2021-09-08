@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>778</integer>
+	<key>capHeight</key>
+	<integer>756</integer>
+	<key>copyright</key>
+	<string>Copyright © 2021 by Anonimas team. All rights reserved.</string>
+	<key>descender</key>
+	<integer>-210</integer>
+	<key>familyName</key>
+	<string>Tans Sans 060921</string>
+	<key>guidelines</key>
+	<array>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>x</key>
+			<integer>416</integer>
+			<key>y</key>
+			<integer>127</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>x</key>
+			<integer>413</integer>
+			<key>y</key>
+			<integer>436</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>x</key>
+			<integer>445</integer>
+			<key>y</key>
+			<integer>629</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>x</key>
+			<integer>28</integer>
+			<key>y</key>
+			<integer>-4</integer>
+		</dict>
+	</array>
+	<key>openTypeHeadCreated</key>
+	<string>2021/08/16 09:50:10</string>
+	<key>openTypeHeadFlags</key>
+	<array/>
+	<key>openTypeNameDesigner</key>
+	<string>Anonimas team</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Torneo Comunidad Letrastica</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>anonimassegundopartido</string>
+	<key>openTypeNameVersion</key>
+	<string>Version 1.000</string>
+	<key>openTypeOS2Selection</key>
+	<array/>
+	<key>openTypeOS2Type</key>
+	<array>
+		<integer>2</integer>
+	</array>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>778</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-210</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>112</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>845</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>210</integer>
+	<key>postscriptBlueFuzz</key>
+	<integer>1</integer>
+	<key>postscriptBlueScale</key>
+	<real>0.04</real>
+	<key>postscriptBlueShift</key>
+	<integer>7</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<real>-10.0</real>
+		<real>0.0</real>
+		<real>756.0</real>
+		<real>766.0</real>
+		<real>778.0</real>
+		<real>788.0</real>
+	</array>
+	<key>postscriptFontName</key>
+	<string>TansSans060921-Regular</string>
+	<key>postscriptForceBold</key>
+	<false/>
+	<key>postscriptIsFixedPitch</key>
+	<false/>
+	<key>postscriptOtherBlues</key>
+	<array>
+		<real>-220.0</real>
+		<real>-210.0</real>
+	</array>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-110</integer>
+	<key>postscriptUnderlineThickness</key>
+	<integer>120</integer>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>unitsPerEm</key>
+	<integer>990</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
+	<key>xHeight</key>
+	<integer>556</integer>
+</dict>
+</plist>

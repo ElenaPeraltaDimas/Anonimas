@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="D" format="2">
+	<advance width="751"/>
+	<outline>
+		<contour>
+			<point x="468" y="127" type="move"/>
+			<point x="519" y="127"/>
+			<point x="530" y="157"/>
+			<point x="530" y="231" type="curve"/>
+		</contour>
+	</outline>
+</glyph>
