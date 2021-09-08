@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="X" format="2">
+	<advance width="713"/>
+	<unicode hex="0058"/>
+	<outline>
+		<contour>
+			<point x="335" y="505" type="line"/>
+			<point x="28" y="0" type="line"/>
+			<point x="164" y="0" type="line"/>
+			<point x="345" y="283" type="line"/>
+			<point x="378" y="283" type="line"/>
+			<point x="662" y="756" type="line"/>
+			<point x="526" y="756" type="line"/>
+			<point x="367" y="505" type="line"/>
+		</contour>
+		<contour>
+			<point x="378" y="505" type="line"/>
+			<point x="346" y="505" type="line"/>
+			<point x="187" y="756" type="line"/>
+			<point x="51" y="756" type="line"/>
+			<point x="331" y="283" type="line"/>
+			<point x="367" y="283" type="line"/>
+			<point x="549" y="0" type="line"/>
+			<point x="685" y="0" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-08 20:51:06 +0000</string>
+		</dict>
+	</lib>
+</glyph>
