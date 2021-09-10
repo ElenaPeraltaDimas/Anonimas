@@ -5,25 +5,27 @@
 	<outline>
 		<contour>
 			<point x="12" y="756" type="line"/>
-			<point x="253" y="299" type="line"/>
-			<point x="381" y="299" type="line"/>
+			<point x="252" y="292" type="line"/>
+			<point x="382" y="292" type="line"/>
 			<point x="622" y="756" type="line"/>
 			<point x="486" y="756" type="line"/>
-			<point x="327" y="436" type="line"/>
-			<point x="315" y="436" type="line"/>
+			<point x="316" y="385" type="line"/>
+			<point x="372" y="425" type="line"/>
+			<point x="270" y="425" type="line"/>
+			<point x="326" y="385" type="line"/>
 			<point x="148" y="756" type="line"/>
 		</contour>
 		<contour>
-			<point x="381" y="299" type="line"/>
-			<point x="253" y="299" type="line"/>
-			<point x="253" y="0" type="line"/>
-			<point x="381" y="0" type="line"/>
+			<point x="382" y="292" type="line"/>
+			<point x="252" y="292" type="line"/>
+			<point x="252" y="0" type="line"/>
+			<point x="382" y="0" type="line"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-08 21:21:52 +0000</string>
+			<string>2021-09-10 10:56:39 +0000</string>
 		</dict>
 	</lib>
 </glyph>

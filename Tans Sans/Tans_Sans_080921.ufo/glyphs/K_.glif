@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="K" format="2">
-	<advance width="633"/>
+	<advance width="704"/>
 	<unicode hex="004B"/>
 	<outline>
 		<contour>
 			<point x="83" y="0" type="line"/>
 			<point x="213" y="0" type="line"/>
 			<point x="213" y="325" type="line"/>
-			<point x="296" y="325" type="line"/>
-			<point x="535" y="-1" type="line"/>
-			<point x="681" y="-1" type="line"/>
-			<point x="391" y="393" type="line"/>
-			<point x="651" y="756" type="line"/>
-			<point x="515" y="756" type="line"/>
-			<point x="289" y="446" type="line"/>
+			<point x="307" y="325" type="line"/>
+			<point x="546" y="-1" type="line"/>
+			<point x="692" y="-1" type="line"/>
+			<point x="402" y="393" type="line"/>
+			<point x="662" y="756" type="line"/>
+			<point x="518" y="756" type="line"/>
+			<point x="292" y="446" type="line"/>
 			<point x="213" y="446" type="line"/>
 			<point x="213" y="756" type="line"/>
 			<point x="83" y="756" type="line"/>
@@ -22,7 +22,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-08 21:49:55 +0000</string>
+			<string>2021-09-10 10:58:46 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>H</string>
 		</dict>
