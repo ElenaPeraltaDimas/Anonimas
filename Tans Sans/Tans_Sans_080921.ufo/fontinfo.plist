@@ -65,6 +65,8 @@
 	<string>Torneo Comunidad Letrastica</string>
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>anonimassegundopartido</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Regular</string>
 	<key>openTypeNameVersion</key>
 	<string>Version 1.000</string>
 	<key>openTypeOS2Selection</key>
@@ -95,14 +97,14 @@
 	<integer>7</integer>
 	<key>postscriptBlueValues</key>
 	<array>
-		<integer>-10</integer>
-		<integer>0</integer>
-		<integer>556</integer>
-		<integer>566</integer>
-		<integer>756</integer>
-		<integer>766</integer>
-		<integer>778</integer>
-		<integer>788</integer>
+		<real>-10.0</real>
+		<real>0.0</real>
+		<real>556.0</real>
+		<real>566.0</real>
+		<real>756.0</real>
+		<real>766.0</real>
+		<real>778.0</real>
+		<real>788.0</real>
 	</array>
 	<key>postscriptFontName</key>
 	<string>TansSans060921-Regular</string>
@@ -112,8 +114,8 @@
 	<false/>
 	<key>postscriptOtherBlues</key>
 	<array>
-		<integer>-220</integer>
-		<integer>-210</integer>
+		<real>-220.0</real>
+		<real>-210.0</real>
 	</array>
 	<key>postscriptUnderlinePosition</key>
 	<integer>-110</integer>

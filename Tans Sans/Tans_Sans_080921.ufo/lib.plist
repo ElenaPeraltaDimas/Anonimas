@@ -6,21 +6,29 @@
 	<dict>
 		<key>6366B642-BFD9-498E-A5DF-39975F9AC1A1</key>
 		<dict>
+			<key>HH</key>
+			<string>127</string>
 			<key>HV</key>
-			<string>138</string>
+			<string>130</string>
 			<key>nV</key>
-			<string>126</string>
+			<string>125</string>
+			<key>nd</key>
+			<string>123</string>
+			<key>oH</key>
+			<string>123</string>
+			<key>oV</key>
+			<string>129</string>
 		</dict>
 	</dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
 		<string>DOQCGbpdqq
-MNHUJI/space oec
-AVWXYK/space lhumn
-BPRSZ/space rijagtf
-EFLT/space kxvwyz
-Hamurgefontiv
-abcdefghijklmnopqrtuvwxyz
+MNHUJI oec
+AVWXYK lhumn
+BPRSZ rijagtf
+EFLT kxvwyz
+Hamburgefontsivhu
+abcdefghijklsmnopqrtuvwxyz
 AaBbCcDdEeFfGgHhIiJjKkLl
 MmNnÑñOoPpQqRrTtUuVv
 WwXxZz</string>
@@ -45,6 +53,7 @@ N
 U
 nnmm
 V</string>
+		<string>l</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
@@ -72,7 +81,7 @@ V</string>
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
 		<key>GSCornerRadius</key>
-		<integer>45</integer>
+		<real>160.0</real>
 	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>6366B642-BFD9-498E-A5DF-39975F9AC1A1</string>
@@ -80,8 +89,6 @@ V</string>
 	<false/>
 	<key>com.schriftgestaltung.useNiceNames</key>
 	<false/>
-	<key>com.schriftgestaltung.weightValue</key>
-	<integer>400</integer>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>A</string>
