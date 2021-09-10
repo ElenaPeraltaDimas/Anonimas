@@ -14,7 +14,7 @@
 	</dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>DOQCGbpdqq
+		<string>DOQHCGbpdqq
 MNHUJI/space oec
 AVWXYK/space lhumn
 BPRSZ/space rijagtf
@@ -22,8 +22,9 @@ EFLT/space kxvwyz
 Hamurgefontiv
 abcdefghijklmnopqrtuvwxyz
 AaBbCcDdEeFfGgHhIiJjKkLl
-MmNnÑñOoPpQqRrTtUuVv
-WwXxZz</string>
+MmNnÑñOHoPpQqRrTtUuVv
+WwXxZz
+nnnooonnonononon</string>
 		<string>nnnnnnn
 ooooooo
 nnnnnnn
@@ -69,6 +70,23 @@ V</string>
 			</array>
 		</dict>
 	</array>
+	<key>com.schriftgestaltung.font.userData</key>
+	<dict>
+		<key>GSDimensionPlugin.Dimensions</key>
+		<dict>
+			<key>6366B642-BFD9-498E-A5DF-39975F9AC1A1</key>
+			<dict>
+				<key>HH</key>
+				<string>127</string>
+				<key>HV</key>
+				<string>130</string>
+				<key>oH</key>
+				<string>123</string>
+				<key>oV</key>
+				<string>129</string>
+			</dict>
+		</dict>
+	</dict>
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
 		<key>GSCornerRadius</key>
