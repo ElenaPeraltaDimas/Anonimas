@@ -14,19 +14,14 @@
 	</dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>0005000
-HHHH4HHH
-HHH9HHH9
-Naci en 197V3 
-NaSci con 1995 
+		<string>abcdefghijk
+lmnopqrstu
+vwxyz
 1234567890
-HHH2HHH2H </string>
-		<string>050</string>
-		<string>O9698534
-HHHHH6HHH
-HHH3HHHH
-HHH9HHH9H</string>
-		<string>2</string>
+ABCDEFGHIJ
+KLMNOPQRST
+UVWXYZ
+</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
