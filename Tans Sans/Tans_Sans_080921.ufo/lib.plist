@@ -14,37 +14,19 @@
 	</dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>DOQCGbpdqq
-MNHUJI/space oec
-AVWXYK/space lhumn
-BPRSZ/space rijagtf
-EFLT/space kxvwyz
-Hamurgefontiv
-abcdefghijklmnopqrtuvwxyz
-AaBbCcDdEeFfGgHhIiJjKkLl
-MmNnÑñOoPpQqRrTtUuVv
-WwXxZz</string>
-		<string>nnnnnnn
-ooooooo
-nnnnnnn
-ooooooo
-nnnnvnnnnn
-nnnnn
-oooovooooo
-
-HIv
-HHHIHHH
-II
-HHHHHHH
-nnonnnnnnnno
-Inoo
-no
-no
-w
-N
-U
-nnmm
-V</string>
+		<string>0005000
+HHHH4HHH
+HHH9HHH9
+Naci en 197V3 
+NaSci con 1995 
+1234567890
+HHH2HHH2H </string>
+		<string>050</string>
+		<string>O9698534
+HHHHH6HHH
+HHH3HHHH
+HHH9HHH9H</string>
+		<string>2</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
@@ -69,19 +51,12 @@ V</string>
 			</array>
 		</dict>
 	</array>
-	<key>com.schriftgestaltung.fontMaster.userData</key>
-	<dict>
-		<key>GSCornerRadius</key>
-		<integer>45</integer>
-	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>6366B642-BFD9-498E-A5DF-39975F9AC1A1</string>
 	<key>com.schriftgestaltung.glyphOrder</key>
 	<false/>
 	<key>com.schriftgestaltung.useNiceNames</key>
 	<false/>
-	<key>com.schriftgestaltung.weightValue</key>
-	<integer>400</integer>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>A</string>
@@ -142,6 +117,18 @@ V</string>
 		<string>x</string>
 		<string>y</string>
 		<string>z</string>
+		<string>zero</string>
+		<string>one</string>
+		<string>two</string>
+		<string>three</string>
+		<string>four</string>
+		<string>five</string>
+		<string>six</string>
+		<string>seven</string>
+		<string>eight</string>
+		<string>nine</string>
+		<string>zero.001</string>
+		<string>nine.001</string>
 		<string>space</string>
 		<string>acutecomb</string>
 		<string>tildecomb</string>
