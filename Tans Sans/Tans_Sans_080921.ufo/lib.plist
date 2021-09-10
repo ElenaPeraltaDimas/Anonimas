@@ -22,16 +22,17 @@
 	</dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>DOQCGbpdqq
-MNHUJI oec
-AVWXYK lhumn
-BPRSZ rijagtf
-EFLT kxvwyz
-Hamburgefontsivhu
-abcdefghijklsmnopqrtuvwxyz
+		<string>DOQHCGbpdqq
+MNHUJI/space oec
+AVWXYK/space lhumn
+BPRSZ/space rijagtf
+EFLT/space kxvwyz
+Hamurgefontiv
+abcdefghijklmnopqrtuvwxyz
 AaBbCcDdEeFfGgHhIiJjKkLl
-MmNnÑñOoPpQqRrTtUuVv
-WwXxZz</string>
+MmNnÑñOHoPpQqRrTtUuVv
+WwXxZz
+nnnooonnonononon</string>
 		<string>nnnnnnn
 ooooooo
 nnnnnnn
@@ -53,7 +54,6 @@ N
 U
 nnmm
 V</string>
-		<string>l</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
@@ -152,6 +152,19 @@ V</string>
 		<string>space</string>
 		<string>acutecomb</string>
 		<string>tildecomb</string>
+		<string>zero.001</string>
+		<string>three</string>
+		<string>one</string>
+		<string>zero</string>
+		<string>S.ss01</string>
+		<string>nine</string>
+		<string>five</string>
+		<string>four</string>
+		<string>eight</string>
+		<string>seven</string>
+		<string>six</string>
+		<string>two</string>
+		<string>nine.001</string>
 	</array>
 </dict>
 </plist>

@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="B" format="2">
-  <advance width="733"/>
-  <unicode hex="0042"/>
-  <outline>
-    <contour>
-      <point x="80.5302" y="0" type="line"/>
-      <point x="212.759" y="0" type="line"/>
-      <point x="212.759" y="755.972" type="line"/>
-      <point x="80.5302" y="755.972" type="line"/>
-    </contour>
-    <contour>
-      <point x="516.984" y="404.985" type="curve"/>
-      <point x="516.984" y="420.812" type="line"/>
-      <point x="612.427" y="424.536"/>
-      <point x="646.23" y="469.224"/>
-      <point x="646.23" y="565.117" type="curve" smooth="yes"/>
-      <point x="646.23" y="695.457"/>
-      <point x="607.456" y="755.972"/>
-      <point x="451.367" y="755.972" type="curve" smooth="yes"/>
-      <point x="169.014" y="755.972" type="line"/>
-      <point x="169.014" y="629.356" type="line"/>
-      <point x="512.013" y="629.356" type="line"/>
-      <point x="512.013" y="555.807" type="line" smooth="yes"/>
-      <point x="512.013" y="481.327"/>
-      <point x="501.077" y="444.087"/>
-      <point x="411.599" y="444.087" type="curve" smooth="yes"/>
-      <point x="137.2" y="444.087" type="line"/>
-      <point x="137.2" y="317.471" type="line"/>
-      <point x="522.949" y="316.54" type="line"/>
-      <point x="522.949" y="229.957" type="line" smooth="yes"/>
-      <point x="522.949" y="160.132"/>
-      <point x="509.03" y="125.685"/>
-      <point x="406.628" y="125.685" type="curve" smooth="yes"/>
-      <point x="158.078" y="125.685" type="line"/>
-      <point x="159.072" y="0" type="line"/>
-      <point x="444.407" y="0.931" type="line" smooth="yes"/>
-      <point x="616.404" y="1.862"/>
-      <point x="663.131" y="89.376"/>
-      <point x="659.155" y="259.749" type="curve" smooth="yes"/>
-      <point x="657.166" y="360.297"/>
-      <point x="622.369" y="404.985"/>
-    </contour>
-  </outline>
-  <lib>
-  <dict>
-    <key>com.schriftgestaltung.Glyphs.lastChange</key>
-    <string>2021-09-08 22:12:44 +0000</string>
-  </dict>
-  </lib>
+	<advance width="733"/>
+	<unicode hex="0042"/>
+	<outline>
+		<contour>
+			<point x="80.5302" y="0" type="line"/>
+			<point x="212.759" y="0" type="line"/>
+			<point x="212.759" y="755.972" type="line"/>
+			<point x="80.5302" y="755.972" type="line"/>
+		</contour>
+		<contour>
+			<point x="516.984" y="404.985" type="curve"/>
+			<point x="516.984" y="420.812" type="line"/>
+			<point x="612.427" y="424.536"/>
+			<point x="646.23" y="469.224"/>
+			<point x="646.23" y="565.117" type="curve" smooth="yes"/>
+			<point x="646.23" y="695.457"/>
+			<point x="607.456" y="755.972"/>
+			<point x="451.367" y="755.972" type="curve" smooth="yes"/>
+			<point x="169.014" y="755.972" type="line"/>
+			<point x="169.014" y="629.356" type="line"/>
+			<point x="512.013" y="629.356" type="line"/>
+			<point x="512.013" y="555.807" type="line" smooth="yes"/>
+			<point x="512.013" y="481.327"/>
+			<point x="501.077" y="444.087"/>
+			<point x="411.599" y="444.087" type="curve" smooth="yes"/>
+			<point x="137.2" y="444.087" type="line"/>
+			<point x="137.2" y="317.471" type="line"/>
+			<point x="522.949" y="316.54" type="line"/>
+			<point x="522.949" y="229.957" type="line" smooth="yes"/>
+			<point x="522.949" y="160.132"/>
+			<point x="509.03" y="125.685"/>
+			<point x="406.628" y="125.685" type="curve" smooth="yes"/>
+			<point x="158.078" y="125.685" type="line"/>
+			<point x="159.072" y="0" type="line"/>
+			<point x="444.407" y="0.931" type="line" smooth="yes"/>
+			<point x="616.404" y="1.862"/>
+			<point x="663.131" y="89.376"/>
+			<point x="659.155" y="259.749" type="curve" smooth="yes"/>
+			<point x="657.166" y="360.297"/>
+			<point x="622.369" y="404.985"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-08 22:12:44 +0000</string>
+		</dict>
+	</lib>
 </glyph>
