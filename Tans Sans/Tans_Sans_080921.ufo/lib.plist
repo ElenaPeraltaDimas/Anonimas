@@ -14,13 +14,15 @@
 	</dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>abcdefghijk
-lmnopqrstu
-vwxyz
-1234567890
-ABCDEFGHIJ
-KLMNOPQRST
-UVWXYZ
+		<string>lllllnllllllnlllh
+lllmlllmlllml
+HHHHMHHMHH
+HHHNHHHNHNH
+MMMMNMMMNMN
+nnnmnnnmnnmnn
+llllullllullllllullllu
+lumano
+
 </string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
@@ -46,6 +48,17 @@ UVWXYZ
 			</array>
 		</dict>
 	</array>
+	<key>com.schriftgestaltung.font.userData</key>
+	<dict>
+		<key>GSDimensionPlugin.Dimensions</key>
+		<dict>
+			<key>6366B642-BFD9-498E-A5DF-39975F9AC1A1</key>
+			<dict>
+				<key>HV</key>
+				<string>127</string>
+			</dict>
+		</dict>
+	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>6366B642-BFD9-498E-A5DF-39975F9AC1A1</string>
 	<key>com.schriftgestaltung.glyphOrder</key>
