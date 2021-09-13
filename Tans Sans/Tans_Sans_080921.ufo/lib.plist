@@ -14,16 +14,19 @@
 	</dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>lllllnllllllnlllh
-lllmlllmlllml
-HHHHMHHMHH
-HHHNHHHNHNH
-MMMMNMMMNMN
-nnnmnnnmnnmnn
-llllullllullllllullllu
-lumano
+		<string>MMMAMMMMAMMM
+NNNVNNNNVNNN
+AAAVAAAV
+HHHVHHHV 
+HHHVHHHVHHHV
+VAVAVAVA
+HHAHHHAHHA
+HHHHWHHHWHHHW
+AWAWAWAWAW
+MWMWMWMWMW 
+HAVA
 
-</string>
+    </string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>

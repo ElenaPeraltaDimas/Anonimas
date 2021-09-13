@@ -18,9 +18,17 @@
 			<key>angle</key>
 			<integer>270</integer>
 			<key>x</key>
-			<integer>997</integer>
+			<integer>719</integer>
 			<key>y</key>
-			<integer>103</integer>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>270</integer>
+			<key>x</key>
+			<integer>-339</integer>
+			<key>y</key>
+			<integer>115</integer>
 		</dict>
 	</array>
 	<key>openTypeHeadCreated</key>
