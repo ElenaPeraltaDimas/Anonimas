@@ -15,9 +15,9 @@
 			<point x="590" y="43" type="line"/>
 			<point x="735" y="674" type="line"/>
 			<point x="680" y="630" type="line"/>
-			<point x="781" y="630" type="line"/>
-			<point x="734" y="675" type="line"/>
-			<point x="770" y="0" type="line"/>
+			<point x="778" y="630" type="line"/>
+			<point x="737" y="675" type="line"/>
+			<point x="773" y="0" type="line"/>
 			<point x="898" y="0" type="line"/>
 			<point x="860" y="756" type="line"/>
 			<point x="653" y="756" type="line"/>
@@ -32,7 +32,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-13 07:32:30 +0000</string>
+			<string>2021-09-14 05:13:50 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>H</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
