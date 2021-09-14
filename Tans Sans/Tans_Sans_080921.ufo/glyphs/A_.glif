@@ -16,16 +16,16 @@
 			<point x="255" y="756" type="line"/>
 		</contour>
 		<contour>
-			<point x="183" y="317" type="line"/>
-			<point x="183" y="190" type="line"/>
-			<point x="520" y="190" type="line"/>
-			<point x="520" y="317" type="line"/>
+			<point x="183" y="315" type="line"/>
+			<point x="183" y="191" type="line"/>
+			<point x="520" y="191" type="line"/>
+			<point x="520" y="315" type="line"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-13 07:31:37 +0000</string>
+			<string>2021-09-14 04:45:53 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>V</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
