@@ -13,9 +13,9 @@
 		</contour>
 		<contour>
 			<point x="434" y="432" type="line"/>
-			<point x="434" y="566" type="line"/>
-			<point x="391" y="566" type="line" smooth="yes"/>
-			<point x="292" y="566"/>
+			<point x="434" y="563" type="line"/>
+			<point x="361" y="563" type="line" smooth="yes"/>
+			<point x="262" y="563"/>
 			<point x="234" y="513"/>
 			<point x="212" y="432" type="curve"/>
 			<point x="131" y="432" type="line"/>
@@ -28,7 +28,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-08 22:19:52 +0000</string>
+			<string>2021-09-10 02:50:42 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>n</string>
 		</dict>
