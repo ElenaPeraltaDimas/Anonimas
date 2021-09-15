@@ -5,8 +5,33 @@
 Handler:DirectoryHandler
 FontType:Invalid
 OutlineFileName:/Users/ela/Documents/GitHub/Anonimas/Id tercer partido/Document fonts/AdobeFnt20.lst
-FileLength:2779
-FileModTime:653436594
+FileLength:3379
+FileModTime:653438934
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TansSans060921-Regular
+FamilyName:Tans Sans 100921
+StyleName:Regular
+MenuName:Tans Sans 100921
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Tans Sans 100921 Regular
+WritingScript:Roman
+OutlineFileName:/Users/ela/Documents/GitHub/Anonimas/Id tercer partido/Document fonts/TansSans060921-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:8676
+FileModTime:653438921
+NameArray:0,Mac,4,Tans Sans 100921 Regular
+NameArray:0,Win,1,Tans Sans 100921
 %EndFont
 
 %BeginFont
