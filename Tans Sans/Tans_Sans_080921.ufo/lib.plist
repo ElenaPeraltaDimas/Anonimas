@@ -7,9 +7,7 @@
 		<key>6366B642-BFD9-498E-A5DF-39975F9AC1A1</key>
 		<dict>
 			<key>HV</key>
-			<string>138</string>
-			<key>nV</key>
-			<string>126</string>
+			<string>127</string>
 		</dict>
 	</dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
@@ -27,13 +25,22 @@ HHH4HHH4HHH4
 HHH5HHH5HHH5
 HHH6HHH6HH6HH
 H777H7HHH7HHH7
-8888O3888883883 
+8888O3888883883/space 
 6668889999
 6663339999
 OOO3OOOOO3OO
 
 
-  </string>
+/space/space</string>
+		<string>SALIDA
+EXIT
+salida
+exit
+parque
+aseos</string>
+		<string>n</string>
+		<string>c</string>
+		<string>CDGOWMQceo</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
@@ -58,17 +65,6 @@ OOO3OOOOO3OO
 			</array>
 		</dict>
 	</array>
-	<key>com.schriftgestaltung.font.userData</key>
-	<dict>
-		<key>GSDimensionPlugin.Dimensions</key>
-		<dict>
-			<key>6366B642-BFD9-498E-A5DF-39975F9AC1A1</key>
-			<dict>
-				<key>HV</key>
-				<string>127</string>
-			</dict>
-		</dict>
-	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>6366B642-BFD9-498E-A5DF-39975F9AC1A1</string>
 	<key>com.schriftgestaltung.glyphOrder</key>
