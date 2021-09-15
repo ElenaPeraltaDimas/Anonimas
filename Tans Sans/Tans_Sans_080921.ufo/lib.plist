@@ -41,6 +41,10 @@ aseos</string>
 		<string>n</string>
 		<string>c</string>
 		<string>CDGOWMQceo</string>
+		<string></string>
+		<string>:n</string>
+		<string>/dieresiscomb</string>
+		<string>/dieresiscomb O/dieresiscomb Ö</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
@@ -89,6 +93,7 @@ aseos</string>
 		<string>N</string>
 		<string>Ntilde</string>
 		<string>O</string>
+		<string>Odieresis</string>
 		<string>P</string>
 		<string>Q</string>
 		<string>R</string>
@@ -145,9 +150,16 @@ aseos</string>
 		<string>zero.001</string>
 		<string>five.001</string>
 		<string>nine.001</string>
+		<string>colon</string>
 		<string>space</string>
+		<string>dieresiscomb</string>
 		<string>acutecomb</string>
 		<string>tildecomb</string>
 	</array>
+	<key>public.postscriptNames</key>
+	<dict>
+		<key>dieresiscomb</key>
+		<string>uni0308</string>
+	</dict>
 </dict>
 </plist>
