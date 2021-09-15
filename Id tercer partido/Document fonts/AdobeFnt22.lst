@@ -14,14 +14,14 @@ WidthClass:5
 AngleClass:0
 FullName:Acrata Text Beta 4 Regular
 WritingScript:Roman
-OutlineFileName:/Users/mac/Desktop/Imagenes anonimas/Carpeta anonimas_tercer partido/Document fonts/Acrata_Text_Beta_4.otf
+OutlineFileName:/Users/estefania/Desktop/Anonimas/Id tercer partido/Document fonts/Acrata_Text_Beta_4.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:12296
-FileModTime:634712402
+FileModTime:653418412
 NameArray:0,Mac,4,Acrata Text Beta 4 Regular
 NameArray:0,Win,1,Acrata Text Beta 4 Regular
 NameArray:0,Win,16,Acrata Text Beta 4
@@ -30,9 +30,9 @@ NameArray:0,Win,16,Acrata Text Beta 4
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/mac/Desktop/Imagenes anonimas/Carpeta anonimas_tercer partido/Document fonts/AdobeFnt22.lst
-FileLength:2431
-FileModTime:653382019
+OutlineFileName:/Users/estefania/Desktop/Anonimas/Id tercer partido/Document fonts/AdobeFnt22.lst
+FileLength:2647
+FileModTime:653418412
 %EndFont
 
 %BeginFont
@@ -48,14 +48,14 @@ WidthClass:5
 AngleClass:0
 FullName:Clash Display Bold
 WritingScript:Roman
-OutlineFileName:/Users/mac/Desktop/Imagenes anonimas/Carpeta anonimas_tercer partido/Document fonts/ClashDisplay-Bold.otf
+OutlineFileName:/Users/estefania/Desktop/Anonimas/Id tercer partido/Document fonts/ClashDisplay-Bold.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:25276
-FileModTime:652675710
+FileModTime:653418412
 NameArray:0,Win,1,Clash Display
 %EndFont
 
@@ -72,14 +72,14 @@ WidthClass:5
 AngleClass:0
 FullName:Clash Display Medium
 WritingScript:Roman
-OutlineFileName:/Users/mac/Desktop/Imagenes anonimas/Carpeta anonimas_tercer partido/Document fonts/ClashDisplay-Medium.otf
+OutlineFileName:/Users/estefania/Desktop/Anonimas/Id tercer partido/Document fonts/ClashDisplay-Medium.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:27176
-FileModTime:652675710
+FileModTime:653418412
 NameArray:0,Win,1,Clash Display Medium
 NameArray:0,Win,16,Clash Display
 %EndFont
@@ -97,14 +97,14 @@ WidthClass:5
 AngleClass:0
 FullName:Minion Pro
 WritingScript:Roman
-OutlineFileName:/Users/mac/Desktop/Imagenes anonimas/Carpeta anonimas_tercer partido/Document fonts/MinionPro-Regular.otf
+OutlineFileName:/Users/estefania/Desktop/Anonimas/Id tercer partido/Document fonts/MinionPro-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:218640
-FileModTime:627517681
+FileModTime:653418412
 DesignSize:110
 NameArray:0,Mac,4,Minion Pro
 NameArray:0,Win,1,Minion Pro
