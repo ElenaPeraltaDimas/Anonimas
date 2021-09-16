@@ -12,39 +12,8 @@
 	</dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>nnnnftzunnnnznnnnznn
-MNMNMNMNMN
-1NZ345O78969
-HHH3HHHH3HH
-HHHH3HHHH3
-HHH7HHH7HHH7
-HHH1HHH1HHH1H
-HHH2HHH2HHH2
-HHH3HHH3HHH3
-HHH4HHH4HHH4
-HHH5HHH5HHH5
-HHH6HHH6HH6HH
-H777H7HHH7HHH7
-8888O3888883883/space 
-6668889999
-6663339999
-OOO3OOOOO3OO
-
-
-/space/space</string>
-		<string>SALIDA
-EXIT
-salida
-exit
-parque
-aseos</string>
-		<string>n</string>
-		<string>c</string>
-		<string>CDGOWMQceo</string>
-		<string></string>
-		<string>:n</string>
-		<string>/dieresiscomb</string>
-		<string>/dieresiscomb O/dieresiscomb Ö</string>
+		<string>p</string>
+		<string>u</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
