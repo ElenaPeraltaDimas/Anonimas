@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="U" format="2">
+  <advance width="711"/>
+  <unicode hex="0055"/>
+  <outline>
+    <contour>
+      <point x="665" y="235" type="curve" smooth="yes"/>
+      <point x="665" y="756" type="line"/>
+      <point x="534" y="756" type="line"/>
+      <point x="536" y="237" type="line" smooth="yes"/>
+      <point x="536.32" y="154"/>
+      <point x="514" y="120"/>
+      <point x="447" y="120" type="curve" smooth="yes"/>
+      <point x="297" y="120" type="line" smooth="yes"/>
+      <point x="230" y="120"/>
+      <point x="206" y="152"/>
+      <point x="206" y="235" type="curve" smooth="yes"/>
+      <point x="206" y="756" type="line"/>
+      <point x="76" y="756" type="line"/>
+      <point x="76" y="235" type="line" smooth="yes"/>
+      <point x="76" y="28"/>
+      <point x="152" y="-11"/>
+      <point x="324" y="-11" type="curve" smooth="yes"/>
+      <point x="333" y="-11"/>
+      <point x="398" y="-11"/>
+      <point x="410" y="-11" type="curve" smooth="yes"/>
+      <point x="582" y="-11"/>
+      <point x="665" y="36"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+    <key>com.schriftgestaltung.Glyphs.lastChange</key>
+    <string>2021-09-13 06:12:45 +0000</string>
+  <key>public.markColor</key>
+  <string>0.67,0.95,0.38,1</string>
+  </dict>
+  </lib>
+</glyph>
