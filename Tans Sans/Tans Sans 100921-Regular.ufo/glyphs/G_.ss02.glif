@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="G.ss02" format="2">
-	<advance width="711"/>
+	<advance width="703"/>
 	<outline>
 		<contour>
 			<point x="596" y="756" type="line"/>
@@ -38,7 +38,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-08 21:33:43 +0000</string>
+			<string>2021-09-23 06:29:51 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>G</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
