@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="V" format="2">
-  <advance width="751"/>
-  <unicode hex="0056"/>
-  <outline>
-    <contour>
-      <point x="42" y="756" type="line"/>
-      <point x="281" y="0" type="line"/>
-      <point x="486" y="0" type="line"/>
-      <point x="720" y="756" type="line"/>
-      <point x="587" y="756" type="line"/>
-      <point x="387" y="83" type="line"/>
-      <point x="437" y="126" type="line"/>
-      <point x="325" y="126" type="line"/>
-      <point x="389" y="83" type="line"/>
-      <point x="182" y="756" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-  <dict>
-    <key>com.schriftgestaltung.Glyphs.lastChange</key>
-    <string>2021-09-13 07:30:46 +0000</string>
-  <key>public.markColor</key>
-  <string>0.67,0.95,0.38,1</string>
-  </dict>
-  </lib>
+	<advance width="738"/>
+	<unicode hex="0056"/>
+	<outline>
+		<contour>
+			<point x="27" y="756" type="line"/>
+			<point x="266" y="0" type="line"/>
+			<point x="477" y="0" type="line"/>
+			<point x="711" y="756" type="line"/>
+			<point x="573" y="756" type="line"/>
+			<point x="375" y="83" type="line"/>
+			<point x="425" y="119" type="line"/>
+			<point x="313" y="119" type="line"/>
+			<point x="377" y="83" type="line"/>
+			<point x="170" y="756" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-24 05:16:43 +0000</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
 </glyph>

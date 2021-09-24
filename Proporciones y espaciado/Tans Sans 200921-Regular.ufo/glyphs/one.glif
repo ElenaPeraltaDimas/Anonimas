@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one" format="2">
-  <advance width="710"/>
-  <unicode hex="0031"/>
-  <outline>
-    <contour>
-      <point x="466.74" y="754.973" type="line"/>
-      <point x="336.74" y="754.973" type="line"/>
-      <point x="336.74" y="-1.02745" type="line"/>
-      <point x="466.74" y="-1.02745" type="line"/>
-    </contour>
-    <contour>
-      <point x="336.74" y="566.973" type="curve"/>
-      <point x="336.74" y="754.973" type="line"/>
-      <point x="313.74" y="683.973"/>
-      <point x="241.74" y="643.973"/>
-      <point x="137.74" y="643.973" type="curve"/>
-      <point x="137.74" y="520.973" type="line"/>
-      <point x="236.74" y="520.973"/>
-      <point x="307.74" y="536.973"/>
-    </contour>
-    <contour>
-      <point x="115.269" y="126" type="line"/>
-      <point x="115.269" y="-1.5" type="line"/>
-      <point x="655.941" y="-1" type="line"/>
-      <point x="655.941" y="126.5" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-  <dict>
-    <key>com.schriftgestaltung.Glyphs.lastChange</key>
-    <string>2021-09-10 05:19:22 +0000</string>
-  <key>public.markColor</key>
-  <string>0.06,0.6,0.98,1</string>
-  </dict>
-  </lib>
+	<advance width="710"/>
+	<unicode hex="0031"/>
+	<outline>
+		<contour>
+			<point x="457" y="755" type="line"/>
+			<point x="327" y="755" type="line"/>
+			<point x="327" y="-1" type="line"/>
+			<point x="457" y="-1" type="line"/>
+		</contour>
+		<contour>
+			<point x="327" y="567" type="curve"/>
+			<point x="327" y="755" type="line"/>
+			<point x="304" y="684"/>
+			<point x="232" y="644"/>
+			<point x="128" y="644" type="curve"/>
+			<point x="128" y="521" type="line"/>
+			<point x="227" y="521"/>
+			<point x="298" y="537"/>
+		</contour>
+		<contour>
+			<point x="105" y="126" type="line"/>
+			<point x="105" y="-2" type="line"/>
+			<point x="646" y="-1" type="line"/>
+			<point x="646" y="127" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-24 05:49:53 +0000</string>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
 </glyph>

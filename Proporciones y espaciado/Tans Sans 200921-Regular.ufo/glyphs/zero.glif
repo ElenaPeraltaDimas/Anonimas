@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zero" format="2">
-  <advance width="710"/>
-  <unicode hex="0030"/>
-  <outline>
-    <contour>
-      <point x="419.712" y="127" type="curve" smooth="yes"/>
-      <point x="172.712" y="127" type="line"/>
-      <point x="172.712" y="508" type="line" smooth="yes"/>
-      <point x="172.712" y="607"/>
-      <point x="214.712" y="629"/>
-      <point x="293.712" y="629" type="curve" smooth="yes"/>
-      <point x="540.712" y="629" type="line"/>
-      <point x="540.712" y="248" type="line" smooth="yes"/>
-      <point x="540.712" y="149"/>
-      <point x="498.712" y="127"/>
-    </contour>
-    <contour>
-      <point x="671.712" y="230" type="curve" smooth="yes"/>
-      <point x="671.712" y="525" type="line"/>
-      <point x="671.712" y="679"/>
-      <point x="624.712" y="756"/>
-      <point x="468.712" y="756" type="curve" smooth="yes"/>
-      <point x="245.712" y="756" type="line" smooth="yes"/>
-      <point x="116.712" y="756"/>
-      <point x="41.7123" y="663"/>
-      <point x="41.7123" y="526" type="curve" smooth="yes"/>
-      <point x="41.7123" y="230" type="line" smooth="yes"/>
-      <point x="41.7123" y="76"/>
-      <point x="89.7123" y="-1.13687e-12"/>
-      <point x="245.712" y="-1.13687e-12" type="curve" smooth="yes"/>
-      <point x="467.712" y="-1.13687e-12" type="line" smooth="yes"/>
-      <point x="606.712" y="-1.13687e-12"/>
-      <point x="671.712" y="83"/>
-    </contour>
-    <contour>
-      <point x="540.712" y="629" type="line"/>
-      <point x="172.712" y="286" type="line"/>
-      <point x="172.712" y="127" type="line"/>
-      <point x="540.712" y="470" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-  <dict>
-    <key>com.schriftgestaltung.Glyphs.lastChange</key>
-    <string>2021-09-10 05:18:11 +0000</string>
-    <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-    <string>O</string>
-    <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-    <string>O</string>
-  <key>public.markColor</key>
-  <string>0.98,0.36,0.67,1</string>
-  </dict>
-  </lib>
+	<advance width="710"/>
+	<unicode hex="0030"/>
+	<outline>
+		<contour>
+			<point x="408" y="127" type="curve" smooth="yes"/>
+			<point x="184" y="127" type="line"/>
+			<point x="184" y="508" type="line" smooth="yes"/>
+			<point x="184" y="607"/>
+			<point x="226" y="629"/>
+			<point x="302" y="629" type="curve" smooth="yes"/>
+			<point x="526" y="629" type="line"/>
+			<point x="526" y="248" type="line" smooth="yes"/>
+			<point x="526" y="149"/>
+			<point x="484" y="127"/>
+		</contour>
+		<contour>
+			<point x="657" y="230" type="curve" smooth="yes"/>
+			<point x="657" y="525" type="line"/>
+			<point x="657" y="679"/>
+			<point x="610" y="756"/>
+			<point x="457" y="756" type="curve" smooth="yes"/>
+			<point x="254" y="756" type="line" smooth="yes"/>
+			<point x="128" y="756"/>
+			<point x="53" y="663"/>
+			<point x="53" y="526" type="curve" smooth="yes"/>
+			<point x="53" y="230" type="line" smooth="yes"/>
+			<point x="53" y="76"/>
+			<point x="101" y="0"/>
+			<point x="254" y="0" type="curve" smooth="yes"/>
+			<point x="456" y="0" type="line" smooth="yes"/>
+			<point x="592" y="0"/>
+			<point x="657" y="83"/>
+		</contour>
+		<contour>
+			<point x="531" y="619" type="line"/>
+			<point x="492" y="590" type="line"/>
+			<point x="219" y="316" type="line"/>
+			<point x="179" y="266" type="line"/>
+			<point x="179" y="137" type="line"/>
+			<point x="225" y="173" type="line"/>
+			<point x="491" y="440" type="line"/>
+			<point x="531" y="490" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-24 06:01:05 +0000</string>
+			<key>public.markColor</key>
+			<string>0.98,0.36,0.67,1</string>
+		</dict>
+	</lib>
 </glyph>

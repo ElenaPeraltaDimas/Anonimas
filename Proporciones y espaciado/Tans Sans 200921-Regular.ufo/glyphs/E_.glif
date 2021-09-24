@@ -1,37 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="E" format="2">
-  <advance width="629"/>
-  <unicode hex="0045"/>
-  <outline>
-    <contour>
-      <point x="213" y="0" type="line"/>
-      <point x="213" y="756" type="line"/>
-      <point x="83" y="756" type="line"/>
-      <point x="83" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="591" y="127" type="line"/>
-      <point x="213" y="127" type="line"/>
-      <point x="213" y="0" type="line"/>
-      <point x="591" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="213" y="322" type="line"/>
-      <point x="512" y="322" type="line"/>
-      <point x="512" y="449" type="line"/>
-      <point x="213" y="449" type="line"/>
-    </contour>
-    <contour>
-      <point x="213" y="629" type="line"/>
-      <point x="590" y="629" type="line"/>
-      <point x="590" y="756" type="line"/>
-      <point x="213" y="756" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-  <dict>
-    <key>com.schriftgestaltung.Glyphs.lastChange</key>
-    <string>2021-09-13 23:04:06 +0000</string>
-  </dict>
-  </lib>
+	<advance width="727"/>
+	<unicode hex="0045"/>
+	<outline>
+		<contour>
+			<point x="244" y="0" type="line"/>
+			<point x="244" y="756" type="line"/>
+			<point x="114" y="756" type="line"/>
+			<point x="114" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="656" y="127" type="line"/>
+			<point x="244" y="127" type="line"/>
+			<point x="244" y="0" type="line"/>
+			<point x="656" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="244" y="322" type="line"/>
+			<point x="578" y="322" type="line"/>
+			<point x="578" y="449" type="line"/>
+			<point x="244" y="449" type="line"/>
+		</contour>
+		<contour>
+			<point x="244" y="629" type="line"/>
+			<point x="656" y="629" type="line"/>
+			<point x="656" y="756" type="line"/>
+			<point x="244" y="756" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-24 01:55:33 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>H</string>
+		</dict>
+	</lib>
 </glyph>
