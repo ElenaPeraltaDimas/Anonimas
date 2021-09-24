@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Q" format="2">
-	<advance width="862"/>
+	<advance width="854"/>
 	<unicode hex="0051"/>
 	<outline>
 		<component base="O"/>
@@ -14,7 +14,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-24 01:33:27 +0000</string>
+			<string>2021-09-24 06:04:12 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>O</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

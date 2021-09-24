@@ -55,45 +55,7 @@
 	</dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>ABCDEFGHJKLMNOPQRSTUVWXY Z
-HHHBHHHBHHBHHHBOOOBOBOOBOOBOB
-HHHHKHHHKHHH KKOOKOOKOOKOOKKOO
-HHLHHLHLHLHLHHHLOOLOLLLOLOLOOLOL
-HHHHIHHHIHHHIHHIOOOIOOOIOOIOOO
-HHHHPHHHPHHHRPHHPOOOPOOOPPPOOOHHHRHHRHHBBHRBHRHHROOROROROOOHHHHSHHSHHSHSHSHHSOOSOOSOSSOOS
-HHHTHHHTHHHTHHTOOOTOOOTOOTOOT
-HHHHUUHHHUHHHHUOOOUOOOUOUUUUOUHHHHVHHHVHHVHHHHVOOOVOOVOOOVOVHHHHWHHWHHOOOWOOOWOWWOOWOWO
-HHHXHHHXHXHHHXOOOXOOXXOXXXOXOHHHHHMMHMHHHMHMHMOOOMOOMMMOM
-HHYHHHYHYYHHHHYHYOOOYOOOYOYOYO
-HHHHZHHHZHHZHZHHZOOOZOZZZOZOOOT
-
-0123456789
-HHH1HHH1HH1HHHH1HH1
-HH2HHH2HH2HH2HHH2HH
-HHH3HHH3HHH3HHHH3H3
-HHH4HHH4HHHH4HHH4HH
-HHH5HHH5HHH55HHHH5
-HHHH6HHHH6HHH6H6H6HH
-HH9HH9H9HHHH9H999HH99H
-HHH8HHHH888HHH8H8HH8H
-HHH000HHHH0H0H0H0HHH0
-1234567890
-0987654321
-12345678909876543212
-676753442341267890
-09908765462132677432670
-
-
- 
-
- </string>
-		<string>Uniformes Woodhouse Sublime Temporal Serlo Luchaba Celebrar Cortaste Beneficencia Desagradable Coche Verificar Cancha Autoestima Representan Excita Corporal Subiste Ultimos Provienen Civilización Charlie Tigre Amargura Disciplina Girar Convirtieron Investigar Sammy Presione Autorizó Anarquista Aparcar Pasas Violentos Haberme Block Cavando Católicos Equivocada Philippe Espectro Terriblemente Patrona Sirviendo Doyle Electricista Servida Pendejadas Animado Anteojos Enfadada Cuides Local Picasso Tirado Engordado Corazonada Hundido Dickens Trajera Estudiado Enano Salidas Entrenadores Inquietante Peluca Particulares Fracasó Colegas Conducido Seremos Hallo Inspirado Incluido Cristales Reunion Soleado Vicioso Peleen Dragon Emite Completar Estafa Edmund Excelentes Denis Sophia Acostumbras Pisado
-Water
-Wolf
-Wiliiam
-Mama
-Monserrat
-Miriam</string>
+		<string>Cuevas Sistema Cruzaron Pierden Franklin Contraria Quitamos Celos Cheyenne Fijamente Enamorar Tenerme Mirarlo Noche Vencer Cancelaron Gritando Novena Diseñador Viviendas Talla Limpiando Intentando Tómense Mejoras Asalto Cliente Fruto Troncos Setenta Salvó Ilevar Modernas Ciertamente Normas Instrumento Pescador Encontraron Encargado Derecho Admitirlo Necesites Consumo Sobrio Buenas Rochester Enserio Increible Wright Lewis Gentil Maleducado Bledo Huyen Delicados Efectiva Rubias Distintos Dedicaba Flotar Zoológico Huelo Buscaba Observador Cacahuetes Recordarlo Sentimientos Subiste Ocuparemos Librarte Invencible Corregidos Canciones Barriga Escuchar Extorsión Maldita Merezco Revolucionarios Mires Económicamente Declaración Graduó Scotland Belga Comprendemos Fields Volverme Sentenciado Lecturas</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
@@ -120,6 +82,53 @@ Miriam</string>
 	</array>
 	<key>com.schriftgestaltung.fontMaster.customParameters</key>
 	<array>
+		<dict>
+			<key>name</key>
+			<string>TTFZones</string>
+			<key>value</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>asc</string>
+					<key>pos</key>
+					<real>778.0</real>
+					<key>size</key>
+					<real>10.0</real>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>fig</string>
+					<key>pos</key>
+					<real>756.0</real>
+					<key>size</key>
+					<real>10.0</real>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>xhgt</string>
+					<key>pos</key>
+					<real>556.0</real>
+					<key>size</key>
+					<real>10.0</real>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>base</string>
+					<key>pos</key>
+					<real>0.0</real>
+					<key>size</key>
+					<real>-10.0</real>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>dsc</string>
+					<key>pos</key>
+					<real>-210.0</real>
+					<key>size</key>
+					<real>-10.0</real>
+				</dict>
+			</array>
+		</dict>
 		<dict>
 			<key>name</key>
 			<string>TTFZones</string>
@@ -335,10 +344,6 @@ Miriam</string>
 		<string>X</string>
 		<string>Y</string>
 		<string>Z</string>
-		<string>F.001</string>
-		<string>G.ss01</string>
-		<string>S.ss01</string>
-		<string>G.ss02</string>
 		<string>a</string>
 		<string>b</string>
 		<string>c</string>
@@ -377,9 +382,6 @@ Miriam</string>
 		<string>seven</string>
 		<string>eight</string>
 		<string>nine</string>
-		<string>zero.001</string>
-		<string>five.001</string>
-		<string>nine.001</string>
 		<string>colon</string>
 		<string>uni0308</string>
 		<string>acutecomb</string>
