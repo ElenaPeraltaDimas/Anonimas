@@ -11,7 +11,7 @@
 	<key>descender</key>
 	<integer>-210</integer>
 	<key>familyName</key>
-	<string>anonimassegundopartido</string>
+	<string>Mutua</string>
 	<key>openTypeHeadCreated</key>
 	<string>2021/08/16 11:50:10</string>
 	<key>openTypeHeadFlags</key>
@@ -21,7 +21,7 @@
 	<key>openTypeNameManufacturer</key>
 	<string>Torneo Comunidad Letrastica</string>
 	<key>openTypeNamePreferredFamilyName</key>
-	<string>anonimassegundopartido</string>
+	<string>Mutua</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Regular</string>
 	<key>openTypeNameVersion</key>
@@ -77,7 +77,7 @@
 		<real>788.0</real>
 	</array>
 	<key>postscriptFontName</key>
-	<string>TansSans060921-Regular</string>
+	<string>Mutua Regular</string>
 	<key>postscriptForceBold</key>
 	<false/>
 	<key>postscriptIsFixedPitch</key>

@@ -53,11 +53,6 @@
 			</dict>
 		</dict>
 	</dict>
-	<key>com.schriftgestaltung.DisplayStrings</key>
-	<array>
-		<string>Cuevas Sistema Cruzaron Pierden Franklin Contraria Quitamos Celos Cheyenne Fijamente Enamorar Tenerme Mirarlo Noche Vencer Cancelaron Gritando Novena Diseñador Viviendas Talla Limpiando Intentando Tómense Mejoras Asalto Cliente Fruto Troncos Setenta Salvó Ilevar Modernas Ciertamente Normas Instrumento Pescador Encontraron Encargado Derecho Admitirlo Necesites Consumo Sobrio Buenas Rochester Enserio Increible Wright Lewis Gentil Maleducado Bledo Huyen Delicados Efectiva Rubias Distintos Dedicaba Flotar Zoológico Huelo Buscaba Observador Cacahuetes Recordarlo Sentimientos Subiste Ocuparemos Librarte Invencible Corregidos Canciones Barriga Escuchar Extorsión Maldita Merezco Revolucionarios Mires Económicamente Declaración Graduó Scotland Belga Comprendemos Fields Volverme Sentenciado Lecturas
-HHHSHHHSHHHSHOOSOOOSO</string>
-	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
 	<key>com.schriftgestaltung.font.customParameters</key>
@@ -83,6 +78,53 @@ HHHSHHHSHHHSHOOSOOOSO</string>
 	</array>
 	<key>com.schriftgestaltung.fontMaster.customParameters</key>
 	<array>
+		<dict>
+			<key>name</key>
+			<string>TTFZones</string>
+			<key>value</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>asc</string>
+					<key>pos</key>
+					<real>778.0</real>
+					<key>size</key>
+					<real>10.0</real>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>fig</string>
+					<key>pos</key>
+					<real>756.0</real>
+					<key>size</key>
+					<real>10.0</real>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>xhgt</string>
+					<key>pos</key>
+					<real>556.0</real>
+					<key>size</key>
+					<real>10.0</real>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>base</string>
+					<key>pos</key>
+					<real>0.0</real>
+					<key>size</key>
+					<real>-10.0</real>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>dsc</string>
+					<key>pos</key>
+					<real>-210.0</real>
+					<key>size</key>
+					<real>-10.0</real>
+				</dict>
+			</array>
+		</dict>
 		<dict>
 			<key>name</key>
 			<string>TTFZones</string>
