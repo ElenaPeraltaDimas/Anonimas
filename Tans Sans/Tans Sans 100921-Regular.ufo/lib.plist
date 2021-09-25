@@ -10,6 +10,29 @@
 			<string>127</string>
 		</dict>
 	</dict>
+	<key>com.schriftgestaltung.DisplayStrings</key>
+	<array>
+		<string>/flechader</string>
+		<string>/flechaizq</string>
+		<string>o  i</string>
+		<string>/flechaabajo/flechaarriba/flechader/flechaizq 
+V
+nanbncndnenfngn
+hninjnknlnmnnonp
+nqnrnsntnunvnwn
+txnynzn</string>
+		<string>
+/flechaabajo Procesar Logrado Acostando/flechaizq  Intentó Yenes Mentido/flechaarriba  Semejante Adulta Estas /flechader Lector Amnesia Manicura Tabaco Premeditado Tuyos Visitante Compensación Resurrección Continentes Cure</string>
+		<string>/flechaabajo/flechaarriba/flechader/flechaizq</string>
+		<string>
+/flechaabajo Continente Oriental 
+/flechaarriba Bancario Puestas Fatiga /flechader Bajad Escenas /flechaizq Anochecer Dusty Valor /perro Recoge la popo Mejoras /jardin JardinesQuemados Eve  /basura BasuraChal Amorosa /extintor Extintor FuegoInvisibles /banca Sentarse bancas Saltar /disc Discapacitados Placer /advertencia Advertencia CuidadoHago
+
+
+
+</string>
+		<string>/advertencia/banca/basura/disc/extintor/jardin/perro</string>
+	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
 	<key>com.schriftgestaltung.font.customParameters</key>
@@ -33,6 +56,15 @@
 			</array>
 		</dict>
 	</array>
+	<key>com.schriftgestaltung.fontMaster.userData</key>
+	<dict>
+		<key>GSCornerRadius</key>
+		<real>46.0</real>
+		<key>GSExtrudeAngle</key>
+		<real>30.0</real>
+		<key>GSExtrudeOffset</key>
+		<real>15.0</real>
+	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>6366B642-BFD9-498E-A5DF-39975F9AC1A1</string>
 	<key>com.schriftgestaltung.glyphOrder</key>
@@ -114,11 +146,22 @@
 		<string>zero.001</string>
 		<string>five.001</string>
 		<string>nine.001</string>
-		<string>colon</string>
 		<string>space</string>
+		<string>colon</string>
 		<string>uni0308</string>
 		<string>acutecomb</string>
 		<string>tildecomb</string>
+		<string>advertencia</string>
+		<string>banca</string>
+		<string>basura</string>
+		<string>disc</string>
+		<string>extintor</string>
+		<string>flechaabajo</string>
+		<string>flechaarriba</string>
+		<string>flechader</string>
+		<string>flechaizq</string>
+		<string>jardin</string>
+		<string>perro</string>
 	</array>
 </dict>
 </plist>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="perro" format="2">
+	<advance width="935"/>
+	<outline>
+		<contour>
+			<point x="119" y="0" type="line"/>
+			<point x="244" y="0" type="line"/>
+			<point x="244" y="169" type="line"/>
+			<point x="220" y="86" type="line"/>
+			<point x="321" y="244" type="line"/>
+			<point x="150" y="219" type="line"/>
+			<point x="119" y="132" type="line"/>
+		</contour>
+		<contour>
+			<point x="328" y="0" type="line"/>
+			<point x="443" y="0" type="line"/>
+			<point x="342" y="201" type="line"/>
+			<point x="271" y="124" type="line"/>
+		</contour>
+		<contour>
+			<point x="522" y="0" type="line"/>
+			<point x="642" y="0" type="line"/>
+			<point x="642" y="362" type="line"/>
+			<point x="568" y="471" type="line"/>
+			<point x="150" y="471" type="line"/>
+			<point x="150" y="219" type="line"/>
+			<point x="567" y="219" type="line"/>
+			<point x="522" y="264" type="line"/>
+		</contour>
+		<contour>
+			<point x="605" y="496" type="line"/>
+			<point x="684" y="387" type="line"/>
+			<point x="761" y="439" type="line"/>
+			<point x="691" y="444" type="line"/>
+			<point x="831" y="316" type="line"/>
+			<point x="905" y="396" type="line"/>
+			<point x="773" y="587" type="line"/>
+			<point x="764" y="522" type="line"/>
+			<point x="853" y="594" type="line"/>
+			<point x="800" y="658" type="line"/>
+		</contour>
+		<contour>
+			<point x="222" y="453" type="move"/>
+		</contour>
+		<contour>
+			<point x="30" y="514" type="line"/>
+			<point x="192" y="353" type="line"/>
+			<point x="252" y="414" type="line"/>
+			<point x="90" y="575" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-25 04:16:26 +0000</string>
+		</dict>
+	</lib>
+</glyph>

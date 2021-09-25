@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="flechaizq" format="2">
+	<advance width="816"/>
+	<outline>
+		<contour>
+			<point x="343" y="0" type="line"/>
+			<point x="473" y="0" type="line"/>
+			<point x="473" y="756" type="line"/>
+			<point x="343" y="756" type="line"/>
+		</contour>
+		<contour>
+			<point x="343" y="756" type="line"/>
+			<point x="10" y="401" type="line"/>
+			<point x="95" y="317" type="line"/>
+			<point x="419" y="680" type="line"/>
+		</contour>
+		<contour>
+			<point x="473" y="756" type="line"/>
+			<point x="397" y="680" type="line"/>
+			<point x="721" y="317" type="line"/>
+			<point x="806" y="401" type="line"/>
+		</contour>
+	</outline>
+</glyph>

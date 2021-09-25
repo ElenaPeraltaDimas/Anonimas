@@ -1,7 +1,11 @@
+# Prefix: Prefix
+table GDEF {
+ GlyphClassDef [N Ntilde O Odieresis Q n ntilde o oacute],# Base 
+ , # Liga 
+ [uni0308 acutecomb tildecomb], # Mark 
+ ;
+ } GDEF;
 
-	markClass [uni0308] <anchor 0 556> @mark_top;
-	markClass [acutecomb] <anchor 3 556> @mark_top;
-	markClass [tildecomb] <anchor -2 556> @mark_top;
 feature mark {
 	lookup marklatn {
 		pos base [N]  <anchor 393 756> mark @mark_top;
@@ -16,6 +20,7 @@ feature mark {
 	} marklatn;
 	lookupflag 0;
 } mark;
+
 feature mkmk {
 	lookup mkmk_DFLT_top {
 		pos mark [uni0308] <anchor 0 756> mark @mark_top;
@@ -24,9 +29,4 @@ feature mkmk {
 	} mkmk_DFLT_top;
 	lookupflag 0;
 } mkmk;
-table GDEF {
- GlyphClassDef [N Ntilde O Odieresis Q n ntilde o oacute],# Base 
- , # Liga 
- [uni0308 acutecomb tildecomb], # Mark 
- ;
- } GDEF;
+

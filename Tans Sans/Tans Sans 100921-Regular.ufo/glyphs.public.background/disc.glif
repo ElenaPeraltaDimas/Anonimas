@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="disc" format="2">
+	<advance width="763"/>
+	<outline>
+		<contour>
+			<point x="316" y="110" type="curve"/>
+			<point x="216" y="110"/>
+			<point x="150" y="176"/>
+			<point x="150" y="276" type="curve"/>
+			<point x="150" y="341"/>
+			<point x="178" y="387"/>
+			<point x="231" y="418" type="curve"/>
+			<point x="259" y="434"/>
+			<point x="282" y="441"/>
+			<point x="316" y="441" type="curve"/>
+			<point x="415" y="441"/>
+			<point x="481" y="375"/>
+			<point x="481" y="276" type="curve"/>
+			<point x="481" y="176"/>
+			<point x="415" y="110"/>
+		</contour>
+		<contour>
+			<point x="316" y="-10" type="curve"/>
+			<point x="473" y="-10"/>
+			<point x="601" y="118"/>
+			<point x="601" y="276" type="curve"/>
+			<point x="601" y="433"/>
+			<point x="473" y="561"/>
+			<point x="316" y="561" type="curve"/>
+			<point x="264" y="561"/>
+			<point x="213" y="547"/>
+			<point x="171" y="522" type="curve"/>
+			<point x="87" y="473"/>
+			<point x="30" y="380"/>
+			<point x="30" y="276" type="curve"/>
+			<point x="30" y="118"/>
+			<point x="158" y="-10"/>
+		</contour>
+	</outline>
+</glyph>

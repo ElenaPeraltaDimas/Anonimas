@@ -70,24 +70,42 @@
 	<string>a.glif</string>
 	<key>acutecomb</key>
 	<string>acutecomb.glif</string>
+	<key>advertencia</key>
+	<string>advertencia.glif</string>
 	<key>b</key>
 	<string>b.glif</string>
+	<key>banca</key>
+	<string>banca.glif</string>
+	<key>basura</key>
+	<string>basura.glif</string>
 	<key>c</key>
 	<string>c.glif</string>
 	<key>colon</key>
 	<string>colon.glif</string>
 	<key>d</key>
 	<string>d.glif</string>
+	<key>disc</key>
+	<string>disc.glif</string>
 	<key>e</key>
 	<string>e.glif</string>
 	<key>eight</key>
 	<string>eight.glif</string>
+	<key>extintor</key>
+	<string>extintor.glif</string>
 	<key>f</key>
 	<string>f.glif</string>
 	<key>five</key>
 	<string>five.glif</string>
 	<key>five.001</key>
 	<string>five.001.glif</string>
+	<key>flechaabajo</key>
+	<string>flechaabajo.glif</string>
+	<key>flechaarriba</key>
+	<string>flechaarriba.glif</string>
+	<key>flechader</key>
+	<string>flechader.glif</string>
+	<key>flechaizq</key>
+	<string>flechaizq.glif</string>
 	<key>four</key>
 	<string>four.glif</string>
 	<key>g</key>
@@ -98,6 +116,8 @@
 	<string>i.glif</string>
 	<key>j</key>
 	<string>j.glif</string>
+	<key>jardin</key>
+	<string>jardin.glif</string>
 	<key>k</key>
 	<string>k.glif</string>
 	<key>l</key>
@@ -120,6 +140,8 @@
 	<string>one.glif</string>
 	<key>p</key>
 	<string>p.glif</string>
+	<key>perro</key>
+	<string>perro.glif</string>
 	<key>q</key>
 	<string>q.glif</string>
 	<key>r</key>
