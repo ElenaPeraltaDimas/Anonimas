@@ -4,5 +4,13 @@
 <dict>
 	<key>D</key>
 	<string>D_.glif</string>
+	<key>five</key>
+	<string>five.glif</string>
+	<key>nine</key>
+	<string>nine.glif</string>
+	<key>six</key>
+	<string>six.glif</string>
+	<key>three</key>
+	<string>three.glif</string>
 </dict>
 </plist>

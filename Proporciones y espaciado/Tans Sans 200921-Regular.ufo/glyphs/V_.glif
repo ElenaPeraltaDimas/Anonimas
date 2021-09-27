@@ -5,21 +5,21 @@
 	<outline>
 		<contour>
 			<point x="27" y="756" type="line"/>
-			<point x="266" y="0" type="line"/>
-			<point x="477" y="0" type="line"/>
+			<point x="264" y="0" type="line"/>
+			<point x="475" y="0" type="line"/>
 			<point x="711" y="756" type="line"/>
 			<point x="573" y="756" type="line"/>
+			<point x="373" y="83" type="line"/>
+			<point x="423" y="119" type="line"/>
+			<point x="311" y="119" type="line"/>
 			<point x="375" y="83" type="line"/>
-			<point x="425" y="119" type="line"/>
-			<point x="313" y="119" type="line"/>
-			<point x="377" y="83" type="line"/>
 			<point x="170" y="756" type="line"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-24 05:16:43 +0000</string>
+			<string>2021-09-27 01:17:52 +0000</string>
 			<key>public.markColor</key>
 			<string>0.67,0.95,0.38,1</string>
 		</dict>
