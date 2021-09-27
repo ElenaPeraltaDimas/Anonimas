@@ -16,27 +16,27 @@
 	<array>
 		<dict>
 			<key>angle</key>
-			<integer>270</integer>
+			<integer>0</integer>
 			<key>x</key>
-			<integer>701</integer>
+			<integer>37</integer>
 			<key>y</key>
-			<integer>358</integer>
+			<integer>637</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
 			<integer>0</integer>
 			<key>x</key>
-			<integer>7</integer>
+			<integer>96</integer>
 			<key>y</key>
-			<integer>-316</integer>
+			<integer>-105</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
 			<integer>0</integer>
 			<key>x</key>
-			<integer>68</integer>
+			<integer>505</integer>
 			<key>y</key>
-			<integer>160</integer>
+			<integer>699</integer>
 		</dict>
 	</array>
 	<key>openTypeHeadCreated</key>
