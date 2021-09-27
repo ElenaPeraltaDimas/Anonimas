@@ -16,19 +16,19 @@
 	<array>
 		<dict>
 			<key>angle</key>
-			<integer>180</integer>
+			<integer>0</integer>
 			<key>x</key>
-			<integer>471</integer>
+			<integer>37</integer>
 			<key>y</key>
-			<integer>-141</integer>
+			<integer>637</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
-			<integer>90</integer>
+			<integer>0</integer>
 			<key>x</key>
-			<integer>95</integer>
+			<integer>96</integer>
 			<key>y</key>
-			<integer>115</integer>
+			<integer>-105</integer>
 		</dict>
 		<dict>
 			<key>angle</key>

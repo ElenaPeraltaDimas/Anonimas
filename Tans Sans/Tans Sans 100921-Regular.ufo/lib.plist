@@ -46,6 +46,11 @@
 		<string>b</string>
 		<string>9n}89787</string>
 		<string>/backslash</string>
+		<string>ana@micheltmichel.@C&amp;/space/space</string>
+		<string>a</string>
+		<string>v&amp;8s</string>
+		<string>8&amp;</string>
+		<string>karly@estefania&amp;claudia©ela/space</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
@@ -190,6 +195,9 @@
 		<string>quotesingle</string>
 		<string>space</string>
 		<string>asciicircum</string>
+		<string>at</string>
+		<string>ampersand</string>
+		<string>copyright</string>
 		<string>uni0308</string>
 		<string>acutecomb</string>
 		<string>tildecomb</string>
