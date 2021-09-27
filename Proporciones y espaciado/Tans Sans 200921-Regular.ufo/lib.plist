@@ -55,18 +55,12 @@
 	</dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>6C9n 
-01234H56789
-HHH1HHH1HHH1HH1
-OO1OOO1OOO1OO1OOO1
-HHH7HHH7HHH7HHH77HH
-OOO7OO7OO7OOO7OO7OO
-VVV4VV4VV4VV4VV4VV4VV43
-HHH4HHHH4HHHHH4HHHH4H
-OOOO4OOO4OOOO4OOO4OO4O
-Zona 24
-
-</string>
+		<string>VA
+MAMÁ
+HHAHHHAHHAHHA
+HHHHVHHHHVHHHV
+MAMMAMAMAM
+WAAWAWAWAWA</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
@@ -93,6 +87,100 @@ Zona 24
 	</array>
 	<key>com.schriftgestaltung.fontMaster.customParameters</key>
 	<array>
+		<dict>
+			<key>name</key>
+			<string>TTFZones</string>
+			<key>value</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>asc</string>
+					<key>pos</key>
+					<real>778.0</real>
+					<key>size</key>
+					<real>10.0</real>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>fig</string>
+					<key>pos</key>
+					<real>756.0</real>
+					<key>size</key>
+					<real>10.0</real>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>xhgt</string>
+					<key>pos</key>
+					<real>556.0</real>
+					<key>size</key>
+					<real>10.0</real>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>base</string>
+					<key>pos</key>
+					<real>0.0</real>
+					<key>size</key>
+					<real>-10.0</real>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>dsc</string>
+					<key>pos</key>
+					<real>-210.0</real>
+					<key>size</key>
+					<real>-10.0</real>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TTFZones</string>
+			<key>value</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>asc</string>
+					<key>pos</key>
+					<real>778.0</real>
+					<key>size</key>
+					<real>10.0</real>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>fig</string>
+					<key>pos</key>
+					<real>756.0</real>
+					<key>size</key>
+					<real>10.0</real>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>xhgt</string>
+					<key>pos</key>
+					<real>556.0</real>
+					<key>size</key>
+					<real>10.0</real>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>base</string>
+					<key>pos</key>
+					<real>0.0</real>
+					<key>size</key>
+					<real>-10.0</real>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>dsc</string>
+					<key>pos</key>
+					<real>-210.0</real>
+					<key>size</key>
+					<real>-10.0</real>
+				</dict>
+			</array>
+		</dict>
 		<dict>
 			<key>name</key>
 			<string>TTFZones</string>
@@ -681,11 +769,25 @@ Zona 24
 		<string>tildecomb</string>
 		<string>uni000D</string>
 		<string>uni000A</string>
+		<string>Aacute</string>
+		<string>Eacute</string>
+		<string>Iacute</string>
+		<string>Oacute</string>
+		<string>Uacute</string>
+		<string>Udieresis</string>
+		<string>aacute</string>
+		<string>eacute</string>
+		<string>idotless</string>
+		<string>iacute</string>
+		<string>odieresis</string>
+		<string>uacute</string>
+		<string>udieresis</string>
 		<string>two.001</string>
 		<string>upArrow</string>
 		<string>rightArrow</string>
 		<string>downArrow</string>
 		<string>leftArrow</string>
+		<string>acutecomb.case</string>
 		<string>Advertencia</string>
 		<string>Banca</string>
 		<string>Basura</string>

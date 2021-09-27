@@ -2,12 +2,7 @@
 <glyph name="O" format="2">
 	<advance width="854"/>
 	<unicode hex="004F"/>
-	<anchor x="408" y="0" name="bottom"/>
-	<anchor x="750" y="10" name="ogonek"/>
-	<anchor x="408" y="756" name="top"/>
-	<anchor x="815" y="756" name="topright"/>
-	<anchor x="1" y="756" name="topleft"/>
-	<anchor x="408" y="378" name="center"/>
+	<anchor x="427" y="756" name="top"/>
 	<outline>
 		<contour>
 			<point x="762" y="228" type="curve" smooth="yes"/>
@@ -49,7 +44,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-24 05:02:10 +0000</string>
+			<string>2021-09-27 05:29:31 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>=|O</string>
 			<key>public.markColor</key>

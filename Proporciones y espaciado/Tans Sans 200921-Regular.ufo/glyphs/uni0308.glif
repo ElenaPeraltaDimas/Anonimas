@@ -2,7 +2,6 @@
 <glyph name="uni0308" format="2">
 	<advance width="0"/>
 	<unicode hex="0308"/>
-	<anchor x="0" y="756" name="top"/>
 	<anchor x="0" y="556" name="_top"/>
 	<outline>
 		<contour>
@@ -18,4 +17,10 @@
 			<point x="200" y="760" type="line"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-27 06:23:20 +0000</string>
+		</dict>
+	</lib>
 </glyph>

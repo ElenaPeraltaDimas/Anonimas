@@ -1,34 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oacute" format="2">
-	<advance width="654"/>
+	<advance width="688"/>
 	<unicode hex="00F3"/>
 	<outline>
-		<component base="o" xOffset="31"/>
-		<component base="acutecomb" xOffset="343" yOffset="12"/>
+		<component base="o"/>
+		<component base="acutecomb" xOffset="344" yOffset="10"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-			<array>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>0</integer>
-					<key>name</key>
-					<string>o</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>1</integer>
-					<key>name</key>
-					<string>acutecomb</string>
-				</dict>
-			</array>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-23 21:32:57 +0000</string>
+			<string>2021-09-27 06:22:00 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>o</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>o</string>
 		</dict>
 	</lib>
 </glyph>

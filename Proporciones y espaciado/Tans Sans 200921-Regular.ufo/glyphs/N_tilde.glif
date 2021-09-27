@@ -4,7 +4,7 @@
 	<unicode hex="00D1"/>
 	<outline>
 		<component base="N" xOffset="-11"/>
-		<component base="tildecomb" xOffset="384" yOffset="200"/>
+		<component base="tildecomb" xOffset="91" yOffset="200"/>
 	</outline>
 	<lib>
 		<dict>
@@ -28,7 +28,7 @@
 				</dict>
 			</array>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-23 21:32:57 +0000</string>
+			<string>2021-09-27 05:05:01 +0000</string>
 		</dict>
 	</lib>
 </glyph>
