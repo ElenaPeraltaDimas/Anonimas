@@ -90,6 +90,8 @@
 	<string>a.glif</string>
 	<key>aacute</key>
 	<string>aacute.glif</string>
+	<key>acute</key>
+	<string>acute.glif</string>
 	<key>acutecomb</key>
 	<string>acutecomb.glif</string>
 	<key>acutecomb.case</key>
@@ -244,6 +246,8 @@
 	<string>t.glif</string>
 	<key>three</key>
 	<string>three.glif</string>
+	<key>tilde</key>
+	<string>tilde.glif</string>
 	<key>tildecomb</key>
 	<string>tildecomb.glif</string>
 	<key>two</key>

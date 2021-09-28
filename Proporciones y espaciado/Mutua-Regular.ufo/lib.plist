@@ -55,8 +55,9 @@
 	</dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>–</string>
-		<string>‚</string>
+		<string>H´H
+</string>
+		<string>H˜H</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
@@ -83,6 +84,53 @@
 	</array>
 	<key>com.schriftgestaltung.fontMaster.customParameters</key>
 	<array>
+		<dict>
+			<key>name</key>
+			<string>TTFZones</string>
+			<key>value</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>asc</string>
+					<key>pos</key>
+					<real>778.0</real>
+					<key>size</key>
+					<real>10.0</real>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>fig</string>
+					<key>pos</key>
+					<real>756.0</real>
+					<key>size</key>
+					<real>10.0</real>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>xhgt</string>
+					<key>pos</key>
+					<real>556.0</real>
+					<key>size</key>
+					<real>10.0</real>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>base</string>
+					<key>pos</key>
+					<real>0.0</real>
+					<key>size</key>
+					<real>-10.0</real>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>dsc</string>
+					<key>pos</key>
+					<real>-210.0</real>
+					<key>size</key>
+					<real>-10.0</real>
+				</dict>
+			</array>
+		</dict>
 		<dict>
 			<key>name</key>
 			<string>TTFZones</string>
@@ -1103,6 +1151,8 @@
 		<string>rightArrow</string>
 		<string>downArrow</string>
 		<string>leftArrow</string>
+		<string>acute</string>
+		<string>tilde</string>
 		<string>acutecomb.case</string>
 		<string>Advertencia</string>
 		<string>Banca</string>
