@@ -56,6 +56,15 @@
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
 		<string>&amp;</string>
+		<string>/Banca Zona de descanso
+/Basura Basura inorgánica
+/Disc Discapacidad 
+/Extintor Rómpase en caso de 
+/Jardin Jardines y áreas verdes
+/Mascota Zona de mascotas</string>
+		<string>/Jardin</string>
+		<string></string>
+		<string>O</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
@@ -693,7 +702,59 @@
 				</dict>
 			</array>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>TTFZones</string>
+			<key>value</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>asc</string>
+					<key>pos</key>
+					<real>778.0</real>
+					<key>size</key>
+					<real>10.0</real>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>fig</string>
+					<key>pos</key>
+					<real>756.0</real>
+					<key>size</key>
+					<real>10.0</real>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>xhgt</string>
+					<key>pos</key>
+					<real>556.0</real>
+					<key>size</key>
+					<real>10.0</real>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>base</string>
+					<key>pos</key>
+					<real>0.0</real>
+					<key>size</key>
+					<real>-10.0</real>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>dsc</string>
+					<key>pos</key>
+					<real>-210.0</real>
+					<key>size</key>
+					<real>-10.0</real>
+				</dict>
+			</array>
+		</dict>
 	</array>
+	<key>com.schriftgestaltung.fontMaster.userData</key>
+	<dict>
+		<key>GSCornerRadius</key>
+		<real>325.0</real>
+	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>master01</string>
 	<key>com.schriftgestaltung.glyphOrder</key>
@@ -922,6 +983,7 @@
 		<string>Extintor</string>
 		<string>Jardin</string>
 		<string>Mascota</string>
+		<string>Jardin.001</string>
 	</array>
 	<key>public.postscriptNames</key>
 	<dict>
