@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="numbersign" format="2">
-	<advance width="777"/>
+	<advance width="764"/>
 	<unicode hex="0023"/>
 	<outline>
 		<contour>
@@ -27,14 +27,11 @@
 			<point x="63" y="159" type="line"/>
 			<point x="713" y="160" type="line"/>
 		</contour>
-		<contour>
-			<point x="1204" y="-231" type="move"/>
-		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-28 00:41:40 +0000</string>
+			<string>2021-09-27 19:28:38 +0000</string>
 		</dict>
 	</lib>
 </glyph>

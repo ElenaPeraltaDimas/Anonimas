@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="semicolon" format="2">
-	<advance width="500"/>
+	<advance width="258"/>
 	<unicode hex="003B"/>
 	<outline>
+		<contour>
+			<point x="54" y="556" type="line"/>
+			<point x="54" y="412" type="line"/>
+			<point x="204" y="412" type="line"/>
+			<point x="204" y="556" type="line"/>
+		</contour>
+		<contour>
+			<point x="26" y="-114" type="line"/>
+			<point x="141" y="-114" type="line"/>
+			<point x="202" y="129" type="line"/>
+			<point x="64" y="129" type="line"/>
+		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-27 00:37:08 +0000</string>
+		</dict>
+	</lib>
 </glyph>
