@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bullet" format="2">
-	<advance width="422"/>
+	<advance width="342"/>
 	<unicode hex="2022"/>
 	<outline>
 		<contour>
-			<point x="100" y="158" type="line"/>
-			<point x="322" y="158" type="line"/>
-			<point x="322" y="380" type="line"/>
-			<point x="100" y="380" type="line"/>
+			<point x="60" y="248" type="line"/>
+			<point x="282" y="248" type="line"/>
+			<point x="282" y="470" type="line"/>
+			<point x="60" y="470" type="line"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-26 00:28:23 +0000</string>
+			<string>2021-09-28 05:25:36 +0000</string>
 		</dict>
 	</lib>
 </glyph>
