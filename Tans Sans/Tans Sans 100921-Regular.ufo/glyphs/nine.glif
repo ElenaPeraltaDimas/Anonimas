@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nine" format="2">
-	<advance width="709"/>
+	<advance width="741"/>
 	<unicode hex="0039"/>
 	<outline>
 		<contour>
@@ -57,7 +57,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-15 03:19:06 +0000</string>
+			<string>2021-09-23 06:29:51 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>O</string>
 		</dict>

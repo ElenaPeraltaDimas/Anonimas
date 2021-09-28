@@ -10,6 +10,23 @@
 			<string>127</string>
 		</dict>
 	</dict>
+	<key>com.schriftgestaltung.DisplayStrings</key>
+	<array>
+		<string>HHHHHH
+abcdefghijklmnopqrstuvwxyz
+nnnnannnannnnnannnna
+oooaooooaoooooaoooaoooao
+nnfnnnnfnnnffnnfooofooofoofo
+nnnnjnnnjjjjnnjnjjooojooojjjojjjoojo
+jijijijijijojojojojojojo
+nnnngnnnngnnngnooogoooogooogo
+
+
+
+</string>
+		<string>fifing nielloing lifelong fibbing cannonball liebig faming pencilled famed deadening aimed melanin miffed facing ochlophobic cadenced bemean lamia fiend janian eland conidial accidence miche baconian enlaced bonehead filename gonidial maccabaean
+gegegegegcgcgcg gagagagagagagagaulala</string>
+	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
 	<key>com.schriftgestaltung.font.customParameters</key>
@@ -33,6 +50,14 @@
 			</array>
 		</dict>
 	</array>
+	<key>com.schriftgestaltung.font.userData</key>
+	<dict>
+		<key>GSDimensionPlugin.Dimensions</key>
+		<dict>
+			<key>6366B642-BFD9-498E-A5DF-39975F9AC1A1</key>
+			<dict/>
+		</dict>
+	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>6366B642-BFD9-498E-A5DF-39975F9AC1A1</string>
 	<key>com.schriftgestaltung.glyphOrder</key>

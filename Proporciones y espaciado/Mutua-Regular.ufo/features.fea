@@ -1,0 +1,12 @@
+# Prefix: Languagesystems
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+# Prefix: Prefix
+table GDEF {
+ GlyphClassDef [N Ntilde O Odieresis Q n ntilde o oacute],# Base 
+ , # Liga 
+ [uni0308 acutecomb tildecomb], # Mark 
+ ;
+ } GDEF;
+

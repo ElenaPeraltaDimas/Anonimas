@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="J" format="2">
-	<advance width="531"/>
+	<advance width="571"/>
 	<unicode hex="004A"/>
 	<outline>
 		<contour>
@@ -24,7 +24,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-13 04:23:29 +0000</string>
+			<string>2021-09-23 06:29:51 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>H</string>
 		</dict>
