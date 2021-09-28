@@ -9,7 +9,7 @@
 			<point x="363" y="756" type="line"/>
 			<point x="30" y="401" type="line"/>
 			<point x="115" y="317" type="line"/>
-			<point x="428" y="680" type="line"/>
+			<point x="435" y="680" type="line"/>
 			<point x="323" y="590" type="line"/>
 			<point x="398" y="590" type="line"/>
 			<point x="363" y="714" type="line"/>
@@ -18,14 +18,14 @@
 			<point x="493" y="714" type="line"/>
 			<point x="464" y="590" type="line"/>
 			<point x="527" y="590" type="line"/>
-			<point x="428" y="680" type="line"/>
+			<point x="425" y="680" type="line"/>
 			<point x="741" y="317" type="line"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-26 03:03:30 +0000</string>
+			<string>2021-09-28 17:01:16 +0000</string>
 		</dict>
 	</lib>
 </glyph>
