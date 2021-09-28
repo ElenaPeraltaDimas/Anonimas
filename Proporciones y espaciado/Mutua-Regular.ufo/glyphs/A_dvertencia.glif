@@ -3,38 +3,30 @@
 	<advance width="832"/>
 	<outline>
 		<contour>
-			<point x="465" y="264" type="line"/>
-			<point x="465" y="510" type="line"/>
-			<point x="369" y="510" type="line"/>
-			<point x="369" y="264" type="line"/>
-		</contour>
-		<contour>
-			<point x="9" y="104" type="line"/>
 			<point x="9" y="0" type="line"/>
 			<point x="823" y="0" type="line"/>
 			<point x="823" y="104" type="line"/>
 			<point x="469" y="761" type="line"/>
 			<point x="358" y="761" type="line"/>
+			<point x="9" y="104" type="line"/>
 		</contour>
 		<contour>
-			<point x="109" y="54" type="line"/>
-			<point x="451" y="699" type="line"/>
-			<point x="382" y="699" type="line"/>
-			<point x="723" y="55" type="line"/>
-			<point x="735" y="104" type="line"/>
-			<point x="105" y="104" type="line"/>
+			<point x="363" y="110" type="line"/>
+			<point x="363" y="226" type="line"/>
+			<point x="469" y="226" type="line"/>
+			<point x="469" y="110" type="line"/>
 		</contour>
 		<contour>
-			<point x="369" y="138" type="line"/>
-			<point x="465" y="138" type="line"/>
-			<point x="465" y="234" type="line"/>
-			<point x="369" y="234" type="line"/>
+			<point x="362" y="278" type="line"/>
+			<point x="352" y="580" type="line"/>
+			<point x="480" y="580" type="line"/>
+			<point x="470" y="278" type="line"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-26 03:20:16 +0000</string>
+			<string>2021-09-28 18:55:39 +0000</string>
 		</dict>
 	</lib>
 </glyph>
