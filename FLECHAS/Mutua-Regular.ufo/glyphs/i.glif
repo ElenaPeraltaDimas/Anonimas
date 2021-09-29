@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="i" format="2">
-  <advance width="298"/>
-  <unicode hex="0069"/>
-  <outline>
-    <contour>
-      <point x="91" y="556" type="line"/>
-      <point x="91" y="0" type="line"/>
-      <point x="217" y="0" type="line"/>
-      <point x="217" y="556" type="line"/>
-    </contour>
-    <contour>
-      <point x="90" y="778" type="line"/>
-      <point x="90" y="652" type="line"/>
-      <point x="218" y="652" type="line"/>
-      <point x="218" y="778" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-  <dict>
-    <key>com.schriftgestaltung.Glyphs.lastChange</key>
-    <string>2021-09-27 06:01:01 +0000</string>
-    <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-    <string>n</string>
-    <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-    <string>n</string>
-  <key>public.markColor</key>
-  <string>0.98,0.36,0.67,1</string>
-  </dict>
-  </lib>
+	<advance width="298"/>
+	<unicode hex="0069"/>
+	<outline>
+		<contour>
+			<point x="91" y="556" type="line"/>
+			<point x="91" y="0" type="line"/>
+			<point x="217" y="0" type="line"/>
+			<point x="217" y="556" type="line"/>
+		</contour>
+		<contour>
+			<point x="90" y="778" type="line"/>
+			<point x="90" y="652" type="line"/>
+			<point x="218" y="652" type="line"/>
+			<point x="218" y="778" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-27 06:01:01 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>n</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>n</string>
+			<key>public.markColor</key>
+			<string>0.98,0.36,0.67,1</string>
+		</dict>
+	</lib>
 </glyph>
