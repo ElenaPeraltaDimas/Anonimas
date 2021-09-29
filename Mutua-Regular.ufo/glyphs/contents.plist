@@ -176,12 +176,18 @@
 	<string>l.glif</string>
 	<key>leftArrow</key>
 	<string>leftA_rrow.glif</string>
+	<key>leftRightArrow</key>
+	<string>leftR_ightA_rrow.glif</string>
 	<key>m</key>
 	<string>m.glif</string>
 	<key>n</key>
 	<string>n.glif</string>
 	<key>nine</key>
 	<string>nine.glif</string>
+	<key>northEastArrow</key>
+	<string>northE_astA_rrow.glif</string>
+	<key>northWestArrow</key>
+	<string>northW_estA_rrow.glif</string>
 	<key>ntilde</key>
 	<string>ntilde.glif</string>
 	<key>numbersign</key>
@@ -240,6 +246,10 @@
 	<string>six.glif</string>
 	<key>slash</key>
 	<string>slash.glif</string>
+	<key>southEastArrow</key>
+	<string>southE_astA_rrow.glif</string>
+	<key>southWestArrow</key>
+	<string>southW_estA_rrow.glif</string>
 	<key>space</key>
 	<string>space.glif</string>
 	<key>t</key>
@@ -270,6 +280,8 @@
 	<string>uni0308.glif</string>
 	<key>upArrow</key>
 	<string>upA_rrow.glif</string>
+	<key>upDownArrow</key>
+	<string>upD_ownA_rrow.glif</string>
 	<key>v</key>
 	<string>v.glif</string>
 	<key>w</key>
