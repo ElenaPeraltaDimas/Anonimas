@@ -1,0 +1,39 @@
+{
+glyphname = hyphen;
+layers = (
+{
+guides = (
+{
+angle = 90;
+pos = (370,49);
+}
+);
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(370,221,l),
+(370,350,l),
+(58,350,l),
+(58,221,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(187,221,l),
+(187,350,l),
+(58,350,l),
+(58,221,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2021-09-28 05:28:23 +0000";
+};
+width = 428;
+}
+);
+unicode = 45;
+}

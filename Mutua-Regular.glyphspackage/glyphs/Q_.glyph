@@ -1,0 +1,30 @@
+{
+color = 6;
+glyphname = Q;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(420,94,l),
+(569,-137,l),
+(716,-137,l),
+(569,94,l)
+);
+},
+{
+ref = O;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2021-09-24 06:04:12 +0000";
+};
+width = 854;
+}
+);
+metricLeft = O;
+metricRight = O;
+unicode = 81;
+}

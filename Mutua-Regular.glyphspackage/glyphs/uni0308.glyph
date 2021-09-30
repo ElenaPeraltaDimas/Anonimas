@@ -1,0 +1,39 @@
+{
+glyphname = uni0308;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (0,556);
+}
+);
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-200,640,l),
+(-80,640,l),
+(-80,760,l),
+(-200,760,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(80,640,l),
+(200,640,l),
+(200,760,l),
+(80,760,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2021-09-27 06:23:20 +0000";
+};
+width = 0;
+}
+);
+unicode = 776;
+}

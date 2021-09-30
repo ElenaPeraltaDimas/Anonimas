@@ -1,0 +1,24 @@
+{
+glyphname = comma;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(162,-114,l),
+(225,129,l),
+(77,129,l),
+(47,-114,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2021-09-28 05:20:42 +0000";
+};
+width = 264;
+}
+);
+unicode = 44;
+}

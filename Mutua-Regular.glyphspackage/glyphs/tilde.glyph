@@ -1,0 +1,19 @@
+{
+glyphname = tilde;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+pos = (521,0);
+ref = tildecomb;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2021-09-28 17:47:00 +0000";
+};
+width = 502;
+}
+);
+unicode = 732;
+}

@@ -1,0 +1,33 @@
+{
+glyphname = i;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(91,0,l),
+(217,0,l),
+(217,556,l),
+(91,556,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(90,652,l),
+(218,652,l),
+(218,778,l),
+(90,778,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2021-09-28 04:58:06 +0000";
+};
+width = 308;
+}
+);
+unicode = 105;
+}

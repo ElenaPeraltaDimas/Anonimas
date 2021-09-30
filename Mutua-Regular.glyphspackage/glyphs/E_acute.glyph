@@ -1,0 +1,22 @@
+{
+glyphname = Eacute;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (383,200);
+ref = acutecomb;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2021-09-27 06:20:57 +0000";
+};
+width = 727;
+}
+);
+unicode = 201;
+}

@@ -1,0 +1,39 @@
+{
+glyphname = Y;
+layers = (
+{
+guides = (
+{
+pos = (0,273);
+}
+);
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(263,232,l),
+(252,317,l),
+(252,0,l),
+(382,0,l),
+(382,317,l),
+(361,211,l),
+(642,756,l),
+(496,756,l),
+(305,354,l),
+(379,405,l),
+(262,405,l),
+(336,354,l),
+(138,756,l),
+(-18,756,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2021-09-14 06:12:07 +0000";
+};
+width = 633;
+}
+);
+unicode = 89;
+}

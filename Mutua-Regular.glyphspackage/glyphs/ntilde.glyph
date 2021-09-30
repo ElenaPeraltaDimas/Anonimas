@@ -1,0 +1,25 @@
+{
+glyphname = ntilde;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+alignment = -1;
+pos = (-24,0);
+ref = n;
+},
+{
+alignment = -1;
+pos = (605,0);
+ref = tildecomb;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2021-09-27 05:09:06 +0000";
+};
+width = 623;
+}
+);
+unicode = 241;
+}

@@ -1,0 +1,29 @@
+{
+color = 9;
+glyphname = seven;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(294,0,l),
+(658,649,l),
+(658,756,l),
+(87,756,l),
+(87,630,l),
+(577,630,l),
+(527,675,l),
+(142,0,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2021-09-27 01:16:58 +0000";
+};
+width = 720;
+}
+);
+unicode = 55;
+}

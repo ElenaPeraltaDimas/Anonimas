@@ -1,0 +1,36 @@
+{
+glyphname = leftArrow;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(30,443,l),
+(30,313,l),
+(385,-20,l),
+(469,65,l),
+(106,378,l),
+(196,273,l),
+(196,348,l),
+(72,313,l),
+(786,313,l),
+(786,443,l),
+(72,443,l),
+(196,414,l),
+(196,477,l),
+(106,378,l),
+(469,691,l),
+(385,776,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2021-09-26 03:02:53 +0000";
+};
+width = 816;
+}
+);
+unicode = 8592;
+}

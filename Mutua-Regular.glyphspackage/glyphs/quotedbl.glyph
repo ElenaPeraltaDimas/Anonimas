@@ -1,0 +1,33 @@
+{
+glyphname = quotedbl;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(166,452,l),
+(175,699,l),
+(45,699,l),
+(54,453,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(366,452,l),
+(375,699,l),
+(245,699,l),
+(254,453,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2021-09-27 19:28:13 +0000";
+};
+width = 420;
+}
+);
+unicode = 34;
+}

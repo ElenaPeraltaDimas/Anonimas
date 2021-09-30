@@ -1,0 +1,33 @@
+{
+glyphname = colon;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(195,0,l),
+(195,145,l),
+(50,145,l),
+(50,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(50,411,l),
+(195,411,l),
+(195,557,l),
+(50,557,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2021-09-28 04:54:42 +0000";
+};
+width = 245;
+}
+);
+unicode = 58;
+}

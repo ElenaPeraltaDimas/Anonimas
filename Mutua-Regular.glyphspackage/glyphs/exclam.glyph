@@ -1,0 +1,38 @@
+{
+glyphname = exclam;
+layers = (
+{
+guides = (
+{
+pos = (-211,696);
+}
+);
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(259,-3,l),
+(259,129,l),
+(128,129,l),
+(128,-3,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(131,216,l),
+(257,216,l),
+(271,696,l),
+(117,696,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2021-09-28 04:58:51 +0000";
+};
+width = 388;
+}
+);
+unicode = 33;
+}

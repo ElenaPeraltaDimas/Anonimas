@@ -1,0 +1,70 @@
+{
+glyphname = E;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (364,0);
+},
+{
+name = ogonek;
+pos = (654,10);
+},
+{
+name = top;
+pos = (383,756);
+},
+{
+name = topleft;
+pos = (20,756);
+}
+);
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(244,756,l),
+(114,756,l),
+(114,0,l),
+(244,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(194,127,l),
+(194,0,l),
+(656,0,l),
+(656,127,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(578,322,l),
+(578,449,l),
+(198,449,l),
+(198,322,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(656,629,l),
+(656,756,l),
+(184,756,l),
+(184,629,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2021-09-27 06:32:11 +0000";
+};
+width = 727;
+}
+);
+metricLeft = H;
+unicode = 69;
+}

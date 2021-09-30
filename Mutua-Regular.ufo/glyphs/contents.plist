@@ -94,8 +94,6 @@
 	<string>acute.glif</string>
 	<key>acutecomb</key>
 	<string>acutecomb.glif</string>
-	<key>acutecomb.case</key>
-	<string>acutecomb.case.glif</string>
 	<key>ampersand</key>
 	<string>ampersand.glif</string>
 	<key>asterisk</key>
@@ -124,6 +122,8 @@
 	<string>comma.glif</string>
 	<key>d</key>
 	<string>d.glif</string>
+	<key>dotlessi</key>
+	<string>dotlessi.glif</string>
 	<key>downArrow</key>
 	<string>downA_rrow.glif</string>
 	<key>e</key>
@@ -150,10 +150,10 @@
 	<string>four.glif</string>
 	<key>g</key>
 	<string>g.glif</string>
-	<key>guillemetleft</key>
-	<string>guillemetleft.glif</string>
-	<key>guillemetright</key>
-	<string>guillemetright.glif</string>
+	<key>guillemotleft</key>
+	<string>guillemotleft.glif</string>
+	<key>guillemotright</key>
+	<string>guillemotright.glif</string>
 	<key>guilsinglleft</key>
 	<string>guilsinglleft.glif</string>
 	<key>guilsinglright</key>
@@ -166,8 +166,6 @@
 	<string>i.glif</string>
 	<key>iacute</key>
 	<string>iacute.glif</string>
-	<key>idotless</key>
-	<string>idotless.glif</string>
 	<key>j</key>
 	<string>j.glif</string>
 	<key>k</key>
@@ -216,6 +214,8 @@
 	<string>question.glif</string>
 	<key>questiondown</key>
 	<string>questiondown.glif</string>
+	<key>questiondown.ss01</key>
+	<string>questiondown.ss01.glif</string>
 	<key>quotedbl</key>
 	<string>quotedbl.glif</string>
 	<key>quotedblbase</key>
@@ -262,8 +262,6 @@
 	<string>tildecomb.glif</string>
 	<key>two</key>
 	<string>two.glif</string>
-	<key>two.001</key>
-	<string>two.001.glif</string>
 	<key>u</key>
 	<string>u.glif</string>
 	<key>uacute</key>
@@ -272,10 +270,6 @@
 	<string>udieresis.glif</string>
 	<key>underscore</key>
 	<string>underscore.glif</string>
-	<key>uni000A</key>
-	<string>uni000A_.glif</string>
-	<key>uni000D</key>
-	<string>uni000D_.glif</string>
 	<key>uni0308</key>
 	<string>uni0308.glif</string>
 	<key>upArrow</key>

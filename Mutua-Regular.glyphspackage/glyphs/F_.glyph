@@ -1,0 +1,43 @@
+{
+glyphname = F;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(114,756,l),
+(114,0,l),
+(246,0,l),
+(246,756,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(636,756,l),
+(246,756,l),
+(246,629,l),
+(636,629,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(246,294,l),
+(561,294,l),
+(561,421,l),
+(246,421,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2021-09-24 01:58:49 +0000";
+};
+width = 702;
+}
+);
+metricLeft = H;
+unicode = 70;
+}

@@ -1,0 +1,36 @@
+{
+glyphname = southWestArrow;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(128,96,l),
+(218,2,l),
+(705,9,l),
+(706,129,l),
+(228,102,l),
+(365,89,l),
+(313,143,l),
+(248,30,l),
+(762,526,l),
+(671,624,l),
+(157,131,l),
+(267,190,l),
+(224,235,l),
+(231,105,l),
+(271,579,l),
+(152,582,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2021-09-29 06:36:33 +0000";
+};
+width = 856;
+}
+);
+unicode = 8601;
+}

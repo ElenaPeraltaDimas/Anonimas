@@ -1,0 +1,42 @@
+{
+glyphname = bracketleft;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(106,776,l),
+(106,-147,l),
+(236,-147,l),
+(236,776,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(106,663,l),
+(316,663,l),
+(316,776,l),
+(106,776,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(106,-147,l),
+(316,-147,l),
+(316,-34,l),
+(106,-34,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2021-09-28 05:11:53 +0000";
+};
+width = 399;
+}
+);
+unicode = 91;
+}

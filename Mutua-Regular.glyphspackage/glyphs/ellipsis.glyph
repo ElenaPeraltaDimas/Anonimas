@@ -1,0 +1,26 @@
+{
+glyphname = ellipsis;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = period;
+},
+{
+pos = (223,0);
+ref = period;
+},
+{
+pos = (446,0);
+ref = period;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2021-09-28 05:22:46 +0000";
+};
+width = 715;
+}
+);
+unicode = 8230;
+}

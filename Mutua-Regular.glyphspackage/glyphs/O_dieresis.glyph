@@ -1,0 +1,22 @@
+{
+glyphname = Odieresis;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (427,200);
+ref = uni0308;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2021-09-27 06:23:55 +0000";
+};
+width = 854;
+}
+);
+unicode = 214;
+}

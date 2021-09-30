@@ -1,0 +1,32 @@
+{
+glyphname = Z;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(625,130,l),
+(213,130,l),
+(213,158,l),
+(625,556,l),
+(625,754,l),
+(103,754,l),
+(103,624,l),
+(490,624,l),
+(490,593,l),
+(77,203,l),
+(77,0,l),
+(625,0,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2021-09-24 05:46:05 +0000";
+};
+width = 697;
+}
+);
+unicode = 90;
+}

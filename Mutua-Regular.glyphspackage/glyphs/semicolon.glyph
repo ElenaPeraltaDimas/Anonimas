@@ -1,0 +1,23 @@
+{
+glyphname = semicolon;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+pos = (-12,0);
+ref = comma;
+},
+{
+pos = (0,407);
+ref = period;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2021-09-28 05:19:59 +0000";
+};
+width = 258;
+}
+);
+unicode = 59;
+}

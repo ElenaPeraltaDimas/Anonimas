@@ -1,0 +1,19 @@
+{
+glyphname = quotesinglbase;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+pos = (-7,0);
+ref = comma;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2021-09-28 05:33:57 +0000";
+};
+width = 268;
+}
+);
+unicode = 8218;
+}

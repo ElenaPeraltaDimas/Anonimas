@@ -1,0 +1,24 @@
+{
+glyphname = quotesingle;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(167,452,l),
+(176,699,l),
+(46,699,l),
+(55,453,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2021-09-27 19:28:08 +0000";
+};
+width = 220;
+}
+);
+unicode = 39;
+}

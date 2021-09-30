@@ -1,0 +1,45 @@
+{
+color = 9;
+glyphname = N;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (408,0);
+},
+{
+name = top;
+pos = (422,756);
+}
+);
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(234,0,l),
+(236,678,l),
+(217,674,l),
+(528,0,l),
+(729,0,l),
+(729,756,l),
+(608,756,l),
+(608,79,l),
+(627,83,l),
+(317,756,l),
+(114,756,l),
+(114,0,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2021-09-24 01:33:27 +0000";
+};
+width = 843;
+}
+);
+metricLeft = H;
+metricRight = H;
+unicode = 78;
+}

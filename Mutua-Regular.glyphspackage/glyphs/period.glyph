@@ -1,0 +1,24 @@
+{
+glyphname = period;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(193,0,l),
+(193,149,l),
+(44,149,l),
+(44,0,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2021-09-28 05:22:33 +0000";
+};
+width = 237;
+}
+);
+unicode = 46;
+}

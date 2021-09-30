@@ -1,0 +1,24 @@
+{
+glyphname = emdash;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1059,191,l),
+(1059,320,l),
+(58,320,l),
+(58,191,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2021-09-28 05:29:26 +0000";
+};
+width = 1117;
+}
+);
+unicode = 8212;
+}

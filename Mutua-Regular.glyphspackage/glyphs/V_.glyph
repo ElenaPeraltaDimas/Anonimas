@@ -1,0 +1,31 @@
+{
+color = 4;
+glyphname = V;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(269,0,l),
+(480,0,l),
+(722,756,l),
+(584,756,l),
+(378,83,l),
+(428,119,l),
+(316,119,l),
+(380,83,l),
+(170,756,l),
+(27,756,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2021-09-27 06:34:58 +0000";
+};
+width = 749;
+}
+);
+unicode = 86;
+}

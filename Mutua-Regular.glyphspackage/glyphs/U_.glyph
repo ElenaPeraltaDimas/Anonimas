@@ -1,0 +1,61 @@
+{
+color = 4;
+glyphname = U;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (388,0);
+},
+{
+name = ogonek;
+pos = (698,10);
+},
+{
+name = top;
+pos = (388,756);
+},
+{
+name = topright;
+pos = (755,756);
+}
+);
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(689,756,l),
+(559,756,l),
+(561,246,ls),
+(561,165,o),
+(528,127,o),
+(444,127,cs),
+(333,127,ls),
+(248,127,o),
+(215,165,o),
+(215,246,cs),
+(215,756,l),
+(86,756,l),
+(86,235,ls),
+(86,71,o),
+(161,-4,o),
+(341,-4,cs),
+(350,-4,o),
+(415,-4,o),
+(427,-4,cs),
+(611,-4,o),
+(689,71,o),
+(689,235,cs)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2021-09-27 05:59:37 +0000";
+};
+width = 775;
+}
+);
+unicode = 85;
+}

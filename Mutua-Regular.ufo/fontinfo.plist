@@ -7,7 +7,7 @@
 	<key>capHeight</key>
 	<integer>756</integer>
 	<key>copyright</key>
-	<string>Copyright © 2021 by Anonimas team. All rights reserved.</string>
+	<string>Copyright © 2021 by Ana Michel, Claudia Rebeca, Estefania Leyva, Karla Mateos y Elena Peralta. All rights reserved.</string>
 	<key>descender</key>
 	<integer>-210</integer>
 	<key>familyName</key>
@@ -17,9 +17,9 @@
 	<key>openTypeHeadFlags</key>
 	<array/>
 	<key>openTypeNameDesigner</key>
-	<string>Anonimas team</string>
+	<string>Ana Michel, Claudia Rebeca, Estefania Leyva, Karla Mateos y Elena Peralta</string>
 	<key>openTypeNameManufacturer</key>
-	<string>Torneo Comunidad Letrastica</string>
+	<string>Torneo Comunidad Letrastica. Equipo Anónimas</string>
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>Mutua</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
@@ -77,7 +77,7 @@
 		<real>788.0</real>
 	</array>
 	<key>postscriptFontName</key>
-	<string>Mutua Regular</string>
+	<string>Mutua-Regular</string>
 	<key>postscriptForceBold</key>
 	<false/>
 	<key>postscriptIsFixedPitch</key>
@@ -91,8 +91,6 @@
 	<integer>-110</integer>
 	<key>postscriptUnderlineThickness</key>
 	<integer>120</integer>
-	<key>postscriptWeightName</key>
-	<string>Regular</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>

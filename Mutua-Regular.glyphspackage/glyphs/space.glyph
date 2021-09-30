@@ -1,0 +1,13 @@
+{
+glyphname = space;
+layers = (
+{
+layerId = master01;
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2021-09-23 21:54:25 +0000";
+};
+width = 220;
+}
+);
+unicode = 32;
+}

@@ -1,0 +1,24 @@
+{
+glyphname = underscore;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(497,-166,l),
+(497,-37,l),
+(50,-37,l),
+(50,-166,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2021-09-26 14:16:57 +0000";
+};
+width = 547;
+}
+);
+unicode = 95;
+}

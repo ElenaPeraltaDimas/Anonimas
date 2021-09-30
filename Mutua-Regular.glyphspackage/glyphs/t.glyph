@@ -1,0 +1,41 @@
+{
+glyphname = t;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(40,436,l),
+(417,436,l),
+(417,556,l),
+(40,556,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(132,136,ls),
+(132,42,o),
+(178,-4,o),
+(271,-4,cs),
+(406,-4,l),
+(406,115,l),
+(317,115,ls),
+(277,115,o),
+(256,136,o),
+(256,180,cs),
+(256,674,l),
+(132,674,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2021-09-23 23:21:16 +0000";
+};
+width = 463;
+}
+);
+unicode = 116;
+}

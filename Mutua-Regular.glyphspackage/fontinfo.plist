@@ -1,0 +1,1217 @@
+{
+.appVersion = "3091";
+.formatVersion = 3;
+classes = (
+{
+code = "A B C D E F G H I J K L M N Ntilde O Odieresis P Q R S T U V W X Y Z Aacute Eacute Iacute Oacute Uacute Udieresis
+";
+name = Uppercase;
+}
+);
+customParameters = (
+{
+name = glyphOrder;
+value = (
+.notdef,
+space,
+A,
+B,
+C,
+D,
+E,
+F,
+G,
+H,
+I,
+J,
+K,
+L,
+M,
+N,
+O,
+P,
+Q,
+R,
+S,
+T,
+U,
+V,
+W,
+X,
+Y,
+Z,
+a,
+b,
+c,
+d,
+e,
+f,
+g,
+h,
+i,
+j,
+k,
+l,
+m,
+n,
+o,
+p,
+q,
+r,
+s,
+t,
+u,
+v,
+w,
+x,
+y,
+z,
+zero,
+one,
+two,
+three,
+four,
+five,
+six,
+seven,
+eight,
+nine,
+zero.001,
+five.001,
+nine.001,
+colon,
+uni0308,
+acutecomb,
+tildecomb,
+uni000D,
+uni000A
+);
+},
+{
+name = glyphOrder;
+value = (
+.notdef,
+space,
+A,
+B,
+C,
+D,
+E,
+F,
+G,
+H,
+I,
+J,
+K,
+L,
+M,
+N,
+O,
+P,
+Q,
+R,
+S,
+T,
+U,
+V,
+W,
+X,
+Y,
+Z,
+a,
+b,
+c,
+d,
+e,
+f,
+g,
+h,
+i,
+j,
+k,
+l,
+m,
+n,
+o,
+p,
+q,
+r,
+s,
+t,
+u,
+v,
+w,
+x,
+y,
+z,
+zero,
+one,
+two,
+three,
+four,
+five,
+six,
+seven,
+eight,
+nine,
+zero.001,
+five.001,
+nine.001,
+colon,
+uni0308,
+acutecomb,
+tildecomb,
+uni000D,
+uni000A
+);
+},
+{
+name = openTypeGaspRangeRecords;
+value = (
+{
+rangeGaspBehavior = (
+0,
+1,
+2,
+3
+);
+rangeMaxPPEM = 65535;
+}
+);
+},
+{
+name = openTypeHeadFlags;
+value = (
+);
+},
+{
+name = preferredFamilyName;
+value = Mutua;
+},
+{
+name = versionString;
+value = "Version 1.000";
+},
+{
+name = panose;
+value = (
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+);
+},
+{
+name = openTypeOS2Selection;
+value = (
+);
+},
+{
+name = fsType;
+value = (
+2
+);
+},
+{
+name = blueFuzz;
+value = 1;
+},
+{
+name = blueScale;
+value = 0.04;
+},
+{
+name = blueShift;
+value = 7;
+},
+{
+name = postscriptForceBold;
+value = 0;
+},
+{
+name = postscriptIsFixedPitch;
+value = 0;
+}
+);
+date = "2021-08-16 11:50:10 +0000";
+familyName = Mutua;
+featurePrefixes = (
+{
+code = "languagesystem DFLT dflt;
+languagesystem latn dflt;
+";
+name = Languagesystems;
+},
+{
+code = "table GDEF {
+ GlyphClassDef [A E I N O Q U a e n o u Aacute Eacute Iacute Ntilde Oacute Odieresis Uacute Udieresis aacute eacute dotlessi iacute ntilde oacute odieresis uacute udieresis],# Base 
+ , # Liga 
+ [uni0308 acutecomb tildecomb], # Mark 
+ ;
+ } GDEF;";
+name = Prefix;
+}
+);
+features = (
+{
+code = "feature salt;
+feature ss01;";
+tag = aalt;
+},
+{
+code = "lookup ccmp_Other_1 {
+	@CombiningTopAccents = [acutecomb tildecomb];
+	sub [i]' @CombiningTopAccents by [dotlessi];
+} ccmp_Other_1;";
+tag = ccmp;
+},
+{
+code = "sub questiondown by questiondown.ss01;";
+tag = salt;
+},
+{
+code = "sub questiondown by questiondown.ss01;";
+tag = ss01;
+},
+{
+code = "	lookup kern_latn {
+	lookupflag IgnoreMarks;
+		pos A B -9;
+		pos B C -9;
+		pos D E -43;
+		pos K L 17;
+		pos Q R 24;
+		pos W X -33;
+		pos Y e -94;
+		pos a t -20;
+		pos a v -46;
+		pos a w -40;
+		pos a y -26;
+		pos d o 7;
+		pos e k 11;
+		pos e y -33;
+		pos o e 6;
+		pos o j -19;
+		pos o v -22;
+		pos r e -7;
+		pos v a -27;
+	} kern_latn;
+	lookupflag 0;
+	script latn;
+	lookup kern_latn;
+	lookupflag 0;";
+disabled = 1;
+tag = kern;
+},
+{
+code = "	lookup marklatn {
+		pos base [A]  <anchor 377 756> mark @mark_top;
+		pos base [E]  <anchor 383 756> mark @mark_top;
+		pos base [I]  <anchor 337 756> mark @mark_top;
+		pos base [N]  <anchor 422 756> mark @mark_top;
+		pos base [O]  <anchor 427 756> mark @mark_top;
+		pos base [Q]  <anchor 427 756> mark @mark_top;
+		pos base [U]  <anchor 388 756> mark @mark_top;
+		pos base [a]  <anchor 342 556> mark @mark_top;
+		pos base [e]  <anchor 334 556> mark @mark_top;
+		pos base [n]  <anchor 396 556> mark @mark_top;
+		pos base [o]  <anchor 344 566> mark @mark_top;
+		pos base [u]  <anchor 325 556> mark @mark_top;
+		pos base [Aacute]  <anchor 377 756> mark @mark_top;
+		pos base [Eacute]  <anchor 383 756> mark @mark_top;
+		pos base [Iacute]  <anchor 337 756> mark @mark_top;
+		pos base [Ntilde]  <anchor 407 1026> mark @mark_top;
+		pos base [Oacute]  <anchor 427 756> mark @mark_top;
+		pos base [Odieresis]  <anchor 427 756> mark @mark_top;
+		pos base [Uacute]  <anchor 388 756> mark @mark_top;
+		pos base [Udieresis]  <anchor 388 756> mark @mark_top;
+		pos base [aacute]  <anchor 342 556> mark @mark_top;
+		pos base [eacute]  <anchor 334 556> mark @mark_top;
+		pos base [dotlessi]  <anchor 154 556> mark @mark_top;
+		pos base [iacute]  <anchor 154 556> mark @mark_top;
+		pos base [ntilde]  <anchor 334 826> mark @mark_top;
+		pos base [oacute]  <anchor 344 566> mark @mark_top;
+		pos base [odieresis]  <anchor 344 566> mark @mark_top;
+		pos base [uacute]  <anchor 325 556> mark @mark_top;
+		pos base [udieresis]  <anchor 325 556> mark @mark_top;
+	} marklatn;
+	lookupflag 0;
+	script latn;
+	lookup marklatn;
+	lookupflag 0;";
+tag = mark;
+},
+{
+code = "	lookup mkmk_DFLT_top {
+		pos mark [tildecomb] <anchor 316 826> mark @mark_top;
+	} mkmk_DFLT_top;
+	lookupflag 0;";
+tag = mkmk;
+}
+);
+fontMaster = (
+{
+customParameters = (
+{
+name = TTFZones;
+value = (
+{
+name = asc;
+pos = 778;
+size = 10;
+},
+{
+name = fig;
+pos = 756;
+size = 10;
+},
+{
+name = xhgt;
+pos = 556;
+size = 10;
+},
+{
+name = base;
+pos = 0;
+size = -10;
+},
+{
+name = dsc;
+pos = -210;
+size = -10;
+}
+);
+},
+{
+name = TTFZones;
+value = (
+{
+name = asc;
+pos = 778;
+size = 10;
+},
+{
+name = fig;
+pos = 756;
+size = 10;
+},
+{
+name = xhgt;
+pos = 556;
+size = 10;
+},
+{
+name = base;
+pos = 0;
+size = -10;
+},
+{
+name = dsc;
+pos = -210;
+size = -10;
+}
+);
+},
+{
+name = TTFZones;
+value = (
+{
+name = asc;
+pos = 0;
+size = 10;
+},
+{
+name = fig;
+pos = 0;
+size = 10;
+},
+{
+name = xhgt;
+pos = 0;
+size = 10;
+},
+{
+name = base;
+pos = 0;
+size = -10;
+},
+{
+name = dsc;
+pos = 0;
+size = -10;
+}
+);
+},
+{
+name = TTFZones;
+value = (
+{
+name = asc;
+pos = 0;
+size = 10;
+},
+{
+name = fig;
+pos = 0;
+size = 10;
+},
+{
+name = xhgt;
+pos = 0;
+size = 10;
+},
+{
+name = base;
+pos = 0;
+size = -10;
+},
+{
+name = dsc;
+pos = 0;
+size = -10;
+}
+);
+},
+{
+name = TTFZones;
+value = (
+{
+name = asc;
+pos = 0;
+size = 10;
+},
+{
+name = fig;
+pos = 0;
+size = 10;
+},
+{
+name = xhgt;
+pos = 0;
+size = 10;
+},
+{
+name = base;
+pos = 0;
+size = -10;
+},
+{
+name = dsc;
+pos = 0;
+size = -10;
+}
+);
+},
+{
+name = TTFZones;
+value = (
+{
+name = asc;
+pos = 0;
+size = 10;
+},
+{
+name = fig;
+pos = 0;
+size = 10;
+},
+{
+name = xhgt;
+pos = 0;
+size = 10;
+},
+{
+name = base;
+pos = 0;
+size = -10;
+},
+{
+name = dsc;
+pos = 0;
+size = -10;
+}
+);
+},
+{
+name = TTFZones;
+value = (
+{
+name = asc;
+pos = 0;
+size = 10;
+},
+{
+name = fig;
+pos = 0;
+size = 10;
+},
+{
+name = xhgt;
+pos = 0;
+size = 10;
+},
+{
+name = base;
+pos = 0;
+size = -10;
+},
+{
+name = dsc;
+pos = 0;
+size = -10;
+}
+);
+},
+{
+name = TTFZones;
+value = (
+{
+name = asc;
+pos = 0;
+size = 10;
+},
+{
+name = fig;
+pos = 0;
+size = 10;
+},
+{
+name = xhgt;
+pos = 0;
+size = 10;
+},
+{
+name = base;
+pos = 0;
+size = -10;
+},
+{
+name = dsc;
+pos = 0;
+size = -10;
+}
+);
+},
+{
+name = TTFZones;
+value = (
+{
+name = asc;
+pos = 0;
+size = 10;
+},
+{
+name = fig;
+pos = 0;
+size = 10;
+},
+{
+name = xhgt;
+pos = 0;
+size = 10;
+},
+{
+name = base;
+pos = 0;
+size = -10;
+},
+{
+name = dsc;
+pos = 0;
+size = -10;
+}
+);
+},
+{
+name = TTFZones;
+value = (
+{
+name = asc;
+pos = 0;
+size = 10;
+},
+{
+name = fig;
+pos = 0;
+size = 10;
+},
+{
+name = xhgt;
+pos = 0;
+size = 10;
+},
+{
+name = base;
+pos = 0;
+size = -10;
+},
+{
+name = dsc;
+pos = 0;
+size = -10;
+}
+);
+},
+{
+name = TTFZones;
+value = (
+{
+name = asc;
+pos = 0;
+size = 10;
+},
+{
+name = fig;
+pos = 0;
+size = 10;
+},
+{
+name = xhgt;
+pos = 0;
+size = 10;
+},
+{
+name = base;
+pos = 0;
+size = -10;
+},
+{
+name = dsc;
+pos = 0;
+size = -10;
+}
+);
+},
+{
+name = TTFZones;
+value = (
+{
+name = asc;
+pos = 0;
+size = 10;
+},
+{
+name = fig;
+pos = 0;
+size = 10;
+},
+{
+name = xhgt;
+pos = 0;
+size = 10;
+},
+{
+name = base;
+pos = 0;
+size = -10;
+},
+{
+name = dsc;
+pos = 0;
+size = -10;
+}
+);
+},
+{
+name = TTFZones;
+value = (
+{
+name = asc;
+pos = 0;
+size = 10;
+},
+{
+name = fig;
+pos = 0;
+size = 10;
+},
+{
+name = xhgt;
+pos = 0;
+size = 10;
+},
+{
+name = base;
+pos = 0;
+size = -10;
+},
+{
+name = dsc;
+pos = 0;
+size = -10;
+}
+);
+},
+{
+name = TTFZones;
+value = (
+{
+name = asc;
+pos = 0;
+size = 10;
+},
+{
+name = fig;
+pos = 0;
+size = 10;
+},
+{
+name = xhgt;
+pos = 0;
+size = 10;
+},
+{
+name = base;
+pos = 0;
+size = -10;
+},
+{
+name = dsc;
+pos = 0;
+size = -10;
+}
+);
+},
+{
+name = TTFZones;
+value = (
+{
+name = asc;
+pos = 0;
+size = 10;
+},
+{
+name = fig;
+pos = 0;
+size = 10;
+},
+{
+name = xhgt;
+pos = 0;
+size = 10;
+},
+{
+name = base;
+pos = 0;
+size = -10;
+},
+{
+name = dsc;
+pos = 0;
+size = -10;
+}
+);
+},
+{
+name = TTFZones;
+value = (
+{
+name = asc;
+pos = 0;
+size = 10;
+},
+{
+name = fig;
+pos = 0;
+size = 10;
+},
+{
+name = xhgt;
+pos = 0;
+size = 10;
+},
+{
+name = base;
+pos = 0;
+size = -10;
+},
+{
+name = dsc;
+pos = 0;
+size = -10;
+}
+);
+},
+{
+name = TTFZones;
+value = (
+{
+name = asc;
+pos = 0;
+size = 10;
+},
+{
+name = fig;
+pos = 0;
+size = 10;
+},
+{
+name = xhgt;
+pos = 0;
+size = 10;
+},
+{
+name = base;
+pos = 0;
+size = -10;
+},
+{
+name = dsc;
+pos = 0;
+size = -10;
+}
+);
+},
+{
+name = TTFZones;
+value = (
+{
+name = asc;
+pos = 0;
+size = 10;
+},
+{
+name = fig;
+pos = 0;
+size = 10;
+},
+{
+name = xhgt;
+pos = 0;
+size = 10;
+},
+{
+name = base;
+pos = 0;
+size = -10;
+},
+{
+name = dsc;
+pos = 0;
+size = -10;
+}
+);
+},
+{
+name = TTFZones;
+value = (
+{
+name = asc;
+pos = 0;
+size = 10;
+},
+{
+name = fig;
+pos = 0;
+size = 10;
+},
+{
+name = xhgt;
+pos = 0;
+size = 10;
+},
+{
+name = base;
+pos = 0;
+size = -10;
+},
+{
+name = dsc;
+pos = 0;
+size = -10;
+}
+);
+},
+{
+name = TTFZones;
+value = (
+{
+name = asc;
+pos = 0;
+size = 10;
+},
+{
+name = fig;
+pos = 0;
+size = 10;
+},
+{
+name = xhgt;
+pos = 0;
+size = 10;
+},
+{
+name = base;
+pos = 0;
+size = -10;
+},
+{
+name = dsc;
+pos = 0;
+size = -10;
+}
+);
+},
+{
+name = TTFZones;
+value = (
+{
+name = asc;
+pos = 0;
+size = 10;
+},
+{
+name = fig;
+pos = 0;
+size = 10;
+},
+{
+name = xhgt;
+pos = 0;
+size = 10;
+},
+{
+name = base;
+pos = 0;
+size = -10;
+},
+{
+name = dsc;
+pos = 0;
+size = -10;
+}
+);
+},
+{
+name = typoAscender;
+value = 778;
+},
+{
+name = typoDescender;
+value = -210;
+},
+{
+name = typoLineGap;
+value = 112;
+},
+{
+name = winAscent;
+value = 845;
+},
+{
+name = winDescent;
+value = 210;
+},
+{
+name = underlineThickness;
+value = 120;
+},
+{
+name = underlinePosition;
+value = -110;
+}
+);
+id = master01;
+metricValues = (
+{
+over = 10;
+pos = 778;
+},
+{
+over = 10;
+pos = 756;
+},
+{
+over = 10;
+pos = 556;
+},
+{
+over = -10;
+},
+{
+over = -10;
+pos = -210;
+},
+{
+}
+);
+name = Regular;
+userData = {
+GSCornerRadius = 80;
+};
+}
+);
+instances = (
+{
+instanceInterpolations = {
+master01 = 1;
+};
+name = Regular;
+properties = (
+{
+key = postscriptFontName;
+value = "Mutua-Regular";
+}
+);
+}
+);
+kerningLTR = {
+master01 = {
+A = {
+B = -9;
+};
+o = {
+v = -22;
+e = 6;
+j = -19;
+};
+Q = {
+R = 24;
+};
+B = {
+C = -9;
+};
+a = {
+t = -20;
+y = -26;
+v = -46;
+w = -40;
+};
+Y = {
+e = -94;
+};
+K = {
+L = 17;
+};
+D = {
+E = -43;
+};
+r = {
+e = -7;
+};
+d = {
+o = 7;
+};
+e = {
+k = 11;
+y = -33;
+};
+W = {
+X = -33;
+};
+v = {
+a = -27;
+};
+};
+};
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+type = "x-height";
+},
+{
+type = baseline;
+},
+{
+type = descender;
+},
+{
+type = "italic angle";
+}
+);
+properties = (
+{
+key = designers;
+values = (
+{
+language = dflt;
+value = "Ana Michel, Claudia Rebeca, Estefania Leyva, Karla Mateos y Elena Peralta";
+}
+);
+},
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = "Torneo Comunidad Letrastica. Equipo Anónimas";
+}
+);
+},
+{
+key = copyrights;
+values = (
+{
+language = dflt;
+value = "Copyright © 2021 by Ana Michel, Claudia Rebeca, Estefania Leyva, Karla Mateos y Elena Peralta. All rights reserved.";
+}
+);
+},
+{
+key = versionString;
+value = "Version 1.000";
+}
+);
+settings = {
+disablesNiceNames = 1;
+};
+unitsPerEm = 990;
+userData = {
+UFO.lib = {
+GSDimensionPlugin.Dimensions = {
+master01 = {
+HH = "126";
+};
+};
+com.fontlab.v2.tth = {
+zones = {
+asc = {
+position = 778;
+top = 1;
+width = 10;
+};
+base = {
+position = 0;
+top = 0;
+width = 10;
+};
+dsc = {
+position = -210;
+top = 0;
+width = 10;
+};
+fig = {
+position = 756;
+top = 1;
+width = 10;
+};
+xhgt = {
+position = 556;
+top = 1;
+width = 10;
+};
+};
+};
+public.postscriptNames = {
+downArrow = arrowdown;
+leftArrow = arrowleft;
+rightArrow = arrowright;
+upArrow = arrowup;
+};
+};
+UFOFormat = 3;
+};
+versionMajor = 1;
+versionMinor = 0;
+}

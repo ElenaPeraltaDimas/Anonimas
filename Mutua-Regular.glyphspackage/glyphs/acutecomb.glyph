@@ -1,0 +1,30 @@
+{
+glyphname = acutecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (0,556);
+}
+);
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-138,639,l),
+(185,721,l),
+(149,839,l),
+(-165,735,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2021-09-27 06:22:15 +0000";
+};
+width = 0;
+}
+);
+unicode = 769;
+}

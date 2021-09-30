@@ -1,0 +1,38 @@
+{
+glyphname = dotlessi;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (149,0);
+},
+{
+name = ogonek;
+pos = (268,10);
+},
+{
+name = top;
+pos = (154,556);
+}
+);
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(91,0,l),
+(217,0,l),
+(217,556,l),
+(91,556,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2021-09-27 06:10:10 +0000";
+};
+width = 298;
+}
+);
+unicode = 305;
+}

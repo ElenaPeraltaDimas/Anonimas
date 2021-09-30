@@ -1,0 +1,36 @@
+{
+glyphname = southEastArrow;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(619,-4,l),
+(713,86,l),
+(710,573,l),
+(591,575,l),
+(610,99,l),
+(628,234,l),
+(573,182,l),
+(684,116,l),
+(193,634,l),
+(98,545,l),
+(590,27,l),
+(525,137,l),
+(480,93,l),
+(611,98,l),
+(136,144,l),
+(133,25,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2021-09-29 06:34:10 +0000";
+};
+width = 856;
+}
+);
+unicode = 8600;
+}

@@ -1,0 +1,40 @@
+{
+glyphname = four;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(347,762,l),
+(43,309,l),
+(43,169,l),
+(444,169,l),
+(444,6,l),
+(569,6,l),
+(569,169,l),
+(668,169,l),
+(668,289,l),
+(569,289,l),
+(569,762,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(427,679,l),
+(444,679,l),
+(444,289,l),
+(165,289,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2021-09-27 01:24:58 +0000";
+};
+width = 720;
+}
+);
+unicode = 52;
+}

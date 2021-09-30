@@ -1,0 +1,41 @@
+{
+glyphname = exclamdown;
+layers = (
+{
+guides = (
+{
+pos = (-251,-164);
+},
+{
+pos = (-185,429);
+}
+);
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(128,401,l),
+(259,401,l),
+(259,533,l),
+(128,533,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(271,-166,l),
+(257,314,l),
+(131,314,l),
+(117,-166,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2021-09-28 04:58:39 +0000";
+};
+width = 388;
+}
+);
+unicode = 161;
+}

@@ -1,0 +1,36 @@
+{
+glyphname = J;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(474,756,l),
+(111,756,l),
+(111,629,l),
+(389,629,l),
+(344,680,l),
+(344,199,ls),
+(344,149,o),
+(322,127,o),
+(273,127,cs),
+(53,127,l),
+(53,0,l),
+(317,0,ls),
+(426,0,o),
+(474,54,o),
+(474,176,cs)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2021-09-24 02:03:29 +0000";
+};
+width = 588;
+}
+);
+metricRight = H;
+unicode = 74;
+}

@@ -1,0 +1,48 @@
+{
+glyphname = bracketright;
+layers = (
+{
+guides = (
+{
+angle = 90;
+pos = (289,97);
+}
+);
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(163,-147,l),
+(289,-147,l),
+(289,775,l),
+(163,775,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(83,775,l),
+(83,662,l),
+(289,662,l),
+(289,775,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(83,-34,l),
+(83,-147,l),
+(289,-147,l),
+(289,-34,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2021-09-28 05:12:05 +0000";
+};
+width = 395;
+}
+);
+unicode = 93;
+}

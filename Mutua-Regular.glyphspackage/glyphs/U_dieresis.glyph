@@ -1,0 +1,22 @@
+{
+glyphname = Udieresis;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (388,200);
+ref = uni0308;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2021-09-27 06:27:01 +0000";
+};
+width = 775;
+}
+);
+unicode = 220;
+}

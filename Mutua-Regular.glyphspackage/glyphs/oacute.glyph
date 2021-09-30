@@ -1,0 +1,24 @@
+{
+glyphname = oacute;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (344,10);
+ref = acutecomb;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2021-09-27 06:22:00 +0000";
+};
+width = 688;
+}
+);
+metricLeft = o;
+metricRight = o;
+unicode = 243;
+}
